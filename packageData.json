@@ -1,4 +1,4 @@
-[
+{"packages":[
     {
         "Name": "PowerToys",
         "VersionNumber": "0.82.0",
@@ -7931,3 +7931,4 @@
         "Description": "Adobe Cleaner. Downloaded from Adobe. http://labs.adobe.com/downloads/acrobatcleaner.html - /product =2 parameter will cause only Reader to be uninstalled. If this parameter is not specified then Adobe Acrobat will be uninstalled. Do not deploy to targets running Adobe Creative Suite."
     }
 ]
+}
