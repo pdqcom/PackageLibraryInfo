@@ -1,35 +1,35 @@
 {
   "packages": [
     {
-        "Name": "PowerToys",
+        "name": "PowerToys",
         "VersionNumber": "0.82.0",
         "VersionName": "",
         "Modified": "2024-07-02 15:13:25",
         "Description": "Publisher: Microsoft\nDownload: https://github.com/microsoft/PowerToys/releases\nSupported Operating Systems: Windows 10,11 / Server 2022\nSupported Architecture: 64"
     },
     {
-        "Name": "BitWarden",
+        "name": "BitWarden",
         "VersionNumber": "2024.6.4",
         "VersionName": "",
         "Modified": "2024-07-02 15:12:27",
         "Description": "Publisher: Bitwarden, Inc.\nDownload: https://bitwarden.com/download/\nSupported Operating Systems: All\nSupported Architecture: 32/64"
     },
     {
-        "Name": "Microsoft Edge for Business",
+        "name": "Microsoft Edge for Business",
         "VersionNumber": "126.0.2592.87",
         "VersionName": "",
         "Modified": "2024-07-02 15:11:05",
         "Description": "Publisher: Microsoft\nDownload: https://www.microsoft.com/en-us/edge/business\nSupported Operating Systems: Windows 10, 11, Server 2016, 2019, 2022\nSupported Architecture: 32/64 bit"
     },
     {
-        "Name": "Node.js",
+        "name": "Node.js",
         "VersionNumber": "22.4.0",
         "VersionName": "",
         "Modified": "2024-07-02 08:07:38",
         "Description": "Publisher: OpenJS Foundation\nDownload: https://nodejs.org/dist/latest/\nSupported Operating Systems: All\nSupported Architecture: 32/64"
     },
     {
-        "Name": "Opera",
+        "name": "Opera",
         "VersionNumber": "111.0.5168.55",
         "VersionName": "",
         "Modified": "2024-07-01 09:20:09",
