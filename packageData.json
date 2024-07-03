@@ -5,7 +5,7 @@
         "version": "0.82.0",
         "VersionName": "",
         "modified": "2024-07-02 15:13:25",
-        "description": "Publisher: Microsoft\\nDownload: https://github.com/microsoft/PowerToys/releases\nSupported Operating Systems: Windows 10,11 / Server 2022\nSupported Architecture: 64"
+        "description": "Publisher: Microsoft<br>Download: https://github.com/microsoft/PowerToys/releases<br>Supported Operating Systems: Windows 10,11 / Server 2022<br>Supported Architecture: 64"
     },
     {
         "name": "BitWarden",
