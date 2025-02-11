@@ -2,168 +2,192 @@
   "packages": [
     {
       "id": "pkg_a5226a650d30450495b",
-      "latestPackageVersionId": "pkgver_236dccb6294c4a8eaea",
-      "latestVersion": "6.1.11.45504",
+      "latestPackageVersionId": "pkgver_ee88bbae0a864861bd2",
+      "latestVersion": "6.3.6.56144",
       "name": "Zoom Client",
       "publisher": "Zoom",
       "source": "pdq"
     },
     {
       "id": "pkg_ce548d0c4ca3473e972",
-      "latestPackageVersionId": "pkgver_be76905e7b0b4e8da08",
-      "latestVersion": "2.51.6",
+      "latestPackageVersionId": "pkgver_34b76dd95a7548c7afd",
+      "latestVersion": "2.52.0",
       "name": "XnView",
       "publisher": "XnView",
       "source": "pdq"
     },
     {
       "id": "pkg_8e0f33b77039446698f",
-      "latestPackageVersionId": "pkgver_fa5a1c123dc7437b816",
-      "latestVersion": "4.20",
+      "latestPackageVersionId": "pkgver_19b6124c32a74238b9d",
+      "latestVersion": "4.24",
       "name": "WizTree",
       "publisher": "Antibody Software",
       "source": "pdq"
     },
     {
       "id": "pkg_07dc34753435457994e",
-      "latestPackageVersionId": "pkgver_dceb4cc1d41f49b19f7",
-      "latestVersion": "6.3.4",
+      "latestPackageVersionId": "pkgver_308db72f93ae443dbeb",
+      "latestVersion": "6.3.6",
       "name": "WinSCP",
       "publisher": "Martin Prikryl",
       "source": "pdq"
     },
     {
       "id": "pkg_430cf8c338ce414488c",
-      "latestPackageVersionId": "pkgver_0a29fbaf79d24caa8bf",
-      "latestVersion": "2.16.42.1",
+      "latestPackageVersionId": "pkgver_827a7b084cdd4a92be1",
+      "latestVersion": "2.16.46",
       "name": "WinMerge",
       "publisher": "WinMerge",
       "source": "pdq"
     },
     {
       "id": "pkg_7e98a76e3a164a28af0",
-      "latestPackageVersionId": "pkgver_54429cd0386542b98c7",
-      "latestVersion": "20240813",
+      "latestPackageVersionId": "pkgver_cd7c35b9c7b54235bf1",
+      "latestVersion": "20250114",
       "name": "Windows Server 2022 - .NET Framework 4.8 Cumulative Update",
       "publisher": "Microsoft",
       "source": "pdq"
     },
     {
       "id": "pkg_a8e6079ff85a45a5b72",
-      "latestPackageVersionId": "pkgver_f23602db325d432c8ff",
-      "latestVersion": "20240813",
+      "latestPackageVersionId": "pkgver_b55059d82cd54cbc84d",
+      "latestVersion": "20250114",
       "name": "Windows Server 2022 - .NET Framework 4.8.1 Cumulative Update",
       "publisher": "Microsoft",
       "source": "pdq"
     },
     {
       "id": "pkg_23a7f5ffdd564775abd",
-      "latestPackageVersionId": "pkgver_79c9cd8c66c443bdaa0",
-      "latestVersion": "20240813",
+      "latestPackageVersionId": "pkgver_2e0f2695b3e340c0a32",
+      "latestVersion": "20250114",
       "name": "Windows Server 2022 - Cumulative Update (64-bit)",
       "publisher": "Microsoft",
       "source": "pdq"
     },
     {
       "id": "pkg_d3060f1f6ad34586b04",
-      "latestPackageVersionId": "pkgver_bd6d7ac878e742919f1",
-      "latestVersion": "20240813",
+      "latestPackageVersionId": "pkgver_a21f565004664156957",
+      "latestVersion": "20250114",
       "name": "Windows Server 2019 - .NET Framework 4.8 Cumulative Update",
       "publisher": "Microsoft",
       "source": "pdq"
     },
     {
+      "id": "pkg_315daf28be534785b84",
+      "latestPackageVersionId": "pkgver_96df35aea69a41618a8",
+      "latestVersion": "20250114",
+      "name": "Windows Server 2019 - .NET Framework 4.7.2 Cumulative Update",
+      "publisher": "Microsoft",
+      "source": "pdq"
+    },
+    {
       "id": "pkg_8f1640406d134696874",
-      "latestPackageVersionId": "pkgver_d6a6b5e4f5c8459a99e",
-      "latestVersion": "20240813",
+      "latestPackageVersionId": "pkgver_f9fcc595221f48eb848",
+      "latestVersion": "20250114",
       "name": "Windows Server 2016 - .NET Framework 4.8 Cumulative Update",
       "publisher": "Microsoft",
       "source": "pdq"
     },
     {
+      "id": "pkg_e0431e9a2fcd4d53b58",
+      "latestPackageVersionId": "pkgver_7066ced3c18b43eead6",
+      "latestVersion": "20250114",
+      "name": "Windows 11 (24H2) and Windows Server 2025 - Cumulative Update (64-bit)",
+      "publisher": "Microsoft",
+      "source": "pdq"
+    },
+    {
+      "id": "pkg_6f114d8a90c1440fbaa",
+      "latestPackageVersionId": "pkgver_ecaa5715ea7b4b75b65",
+      "latestVersion": "20250114",
+      "name": "Windows 11 24H2 and Server 2025 - .NET Framework 4.8.1 Cumulative Update",
+      "publisher": "Microsoft",
+      "source": "pdq"
+    },
+    {
       "id": "pkg_a5230842e81c45e082a",
-      "latestPackageVersionId": "pkgver_e3a18f9742e642cba9d",
-      "latestVersion": "20240813",
+      "latestPackageVersionId": "pkgver_b6dcd14a2e9a4f1093d",
+      "latestVersion": "20250114",
       "name": "Windows 11 (22H2/23H2) - .NET Framework 4.8.1 Cumulative Update",
       "publisher": "Microsoft",
       "source": "pdq"
     },
     {
       "id": "pkg_254c11bb3b8b4eaaa41",
-      "latestPackageVersionId": "pkgver_237a38df1ce045408a0",
-      "latestVersion": "20240813",
+      "latestPackageVersionId": "pkgver_07230636cfff4f18b77",
+      "latestVersion": "20250114",
       "name": "Windows 11 (22H2/23H2) - Cumulative Update (64-bit)",
       "publisher": "Microsoft",
       "source": "pdq"
     },
     {
       "id": "pkg_b82d1a681c224e51bb3",
-      "latestPackageVersionId": "pkgver_fc26f00e340443babf4",
-      "latestVersion": "20240813",
+      "latestPackageVersionId": "pkgver_c3900ac7943a458eb7b",
+      "latestVersion": "20241008",
       "name": "Windows 11 (21H2) - .NET Framework 4.8 Cumulative Update",
       "publisher": "Microsoft",
       "source": "pdq"
     },
     {
       "id": "pkg_b849874f90cc4ccfb61",
-      "latestPackageVersionId": "pkgver_625d09710b5e4648bca",
-      "latestVersion": "20240813",
+      "latestPackageVersionId": "pkgver_8667f626e9d9482392b",
+      "latestVersion": "20241008",
       "name": "Windows 11 (21H2) - .NET Framework 4.8.1 Cumulative Update",
       "publisher": "Microsoft",
       "source": "pdq"
     },
     {
       "id": "pkg_2e5f8523342b46028a2",
-      "latestPackageVersionId": "pkgver_29e6d40d72794a86b45",
-      "latestVersion": "20240813",
+      "latestPackageVersionId": "pkgver_7bf39a0652af441790a",
+      "latestVersion": "20241008",
       "name": "Windows 11 (21H2) - Cumulative Update (64-bit)",
       "publisher": "Microsoft",
       "source": "pdq"
     },
     {
       "id": "pkg_de3ecc7fdf9049f0993",
-      "latestPackageVersionId": "pkgver_8939b0fb9f9742519e5",
-      "latestVersion": "20240813",
+      "latestPackageVersionId": "pkgver_e28ceccf94a24ac9a6c",
+      "latestVersion": "20250114",
       "name": "Windows 10 (Initial) - Cumulative Update (64-bit)",
       "publisher": "Microsoft",
       "source": "pdq"
     },
     {
       "id": "pkg_7969ab61d1154a35bd6",
-      "latestPackageVersionId": "pkgver_98ca5093d944493ea3e",
-      "latestVersion": "20240813",
+      "latestPackageVersionId": "pkgver_55be749745ce447c978",
+      "latestVersion": "20250114",
       "name": "Windows 10 (21H2/22H2) - .NET Framework 4.8 Cumulative Update (64-bit)",
       "publisher": "Microsoft",
       "source": "pdq"
     },
     {
       "id": "pkg_d377a4bf7e2c40659c7",
-      "latestPackageVersionId": "pkgver_fdd76f2d6238417c974",
-      "latestVersion": "20240813",
+      "latestPackageVersionId": "pkgver_5666fe1228574463a61",
+      "latestVersion": "20250114",
       "name": "Windows 10 (21H2/22H2) - .NET Framework 4.8 Cumulative Update (32-bit)",
       "publisher": "Microsoft",
       "source": "pdq"
     },
     {
       "id": "pkg_9c314a9eb5bd4b6baf4",
-      "latestPackageVersionId": "pkgver_bf6d1f3ff1e9450c891",
-      "latestVersion": "20240813",
+      "latestPackageVersionId": "pkgver_c61026e66dc541688c1",
+      "latestVersion": "20250114",
       "name": "Windows 10 (21H2/22H2) - .NET Framework 4.8.1 Cumulative Update (64-bit)",
       "publisher": "Microsoft",
       "source": "pdq"
     },
     {
       "id": "pkg_fae9501ee91d48f495b",
-      "latestPackageVersionId": "pkgver_053aa4dbb4ab4581849",
-      "latestVersion": "20240813",
+      "latestPackageVersionId": "pkgver_06cc6c02b6cc4e3b946",
+      "latestVersion": "20250114",
       "name": "Windows 10 (21H2/22H2) - .NET Framework 4.8.1 Cumulative Update (32-bit)",
       "publisher": "Microsoft",
       "source": "pdq"
     },
     {
       "id": "pkg_ec7670c20157432eaab",
-      "latestPackageVersionId": "pkgver_e2471a3af1ff4cec8af",
-      "latestVersion": "20240813",
+      "latestPackageVersionId": "pkgver_1d10967bbb6a4066a23",
+      "latestVersion": "20250114",
       "name": "Windows 10 (21H2/22H2) - Cumulative Update (64-bit)",
       "publisher": "Microsoft",
       "source": "pdq"
@@ -242,40 +266,48 @@
     },
     {
       "id": "pkg_bb09ce5d0e3b4f53bba",
-      "latestPackageVersionId": "pkgver_fb099cb64b0f4d329eb",
-      "latestVersion": "20240813",
+      "latestPackageVersionId": "pkgver_bf6ea138e6904741bea",
+      "latestVersion": "20250114",
       "name": "Windows 10 (1809) and Windows Server 2019 - Cumulative Update (64-bit)",
       "publisher": "Microsoft",
       "source": "pdq"
     },
     {
       "id": "pkg_c5697136a1a143f8a8a",
-      "latestPackageVersionId": "pkgver_0c146bc3f1794849a01",
-      "latestVersion": "20240813",
+      "latestPackageVersionId": "pkgver_3aed6037ed4e4f8992f",
+      "latestVersion": "20250114",
       "name": "Windows 10 (1607) and Windows Server 2016 - Cumulative Update (64-bit)",
       "publisher": "Microsoft",
       "source": "pdq"
     },
     {
+      "id": "pkg_f2724f684c564a328da",
+      "latestPackageVersionId": "pkgver_bba5e4262ef24b958be",
+      "latestVersion": "2.2.2",
+      "name": "WinDirStat",
+      "publisher": "WinDirStat",
+      "source": "pdq"
+    },
+    {
       "id": "pkg_0dfb081188cb4b2484e",
-      "latestPackageVersionId": "pkgver_edb2a34112034290b38",
-      "latestVersion": "44.7.2.7",
+      "latestPackageVersionId": "pkgver_915831af3c8e4b958ce",
+      "latestVersion": "45.2.0.131",
       "name": "Webex Meetings",
       "publisher": "Cisco",
       "source": "pdq"
     },
     {
       "id": "pkg_dda64f3fd7b749afb65",
-      "latestPackageVersionId": "pkgver_fe8dbb27a9c040d3923",
-      "latestVersion": "44.7.0.30285",
+      "latestPackageVersionId": "pkgver_79507515b4cc4405bc8",
+      "latestVersion": "45.1.0.31549",
       "name": "Webex",
       "publisher": "Cisco",
       "source": "pdq"
     },
     {
       "id": "pkg_31f7c1e4f2284e2f862",
-      "latestPackageVersionId": "pkgver_e22745d7d5fb4ff48cc",
-      "latestVersion": "12.4.5.23787635",
+      "latestPackageVersionId": "pkgver_434c08da7c5a49beb0c",
+      "latestVersion": "12.5.0.24276846",
       "name": "VMware Tools",
       "publisher": "VMware",
       "source": "pdq"
@@ -290,16 +322,16 @@
     },
     {
       "id": "pkg_cd8d2ecf2c6043ed837",
-      "latestPackageVersionId": "pkgver_51c2a49971204bc691f",
-      "latestVersion": "1.92.2",
+      "latestPackageVersionId": "pkgver_b979a8e3eba047dcb81",
+      "latestVersion": "1.97.0",
       "name": "Visual Studio Code",
       "publisher": "Microsoft",
       "source": "pdq"
     },
     {
       "id": "pkg_52767283682240f5b8c",
-      "latestPackageVersionId": "pkgver_f22a882814bd4413a9c",
-      "latestVersion": "7.0.20",
+      "latestPackageVersionId": "pkgver_249f05d1476c4742821",
+      "latestVersion": "7.1.6",
       "name": "VirtualBox",
       "publisher": "Oracle",
       "source": "pdq"
@@ -425,6 +457,14 @@
       "source": "pdq"
     },
     {
+      "id": "pkg_cec363ec9fa34ae08d4",
+      "latestPackageVersionId": "pkgver_d0eea49ce1364c98901",
+      "latestVersion": "1.0.0",
+      "name": "Uninstall PDQ RD Agent",
+      "publisher": "PDQ.com",
+      "source": "pdq"
+    },
+    {
       "id": "pkg_24e34724786f4eee997",
       "latestPackageVersionId": "pkgver_f625e9249b464037b98",
       "latestVersion": "1.0.0",
@@ -482,8 +522,8 @@
     },
     {
       "id": "pkg_d1a580860d074a78890",
-      "latestPackageVersionId": "pkgver_01b8646efb9e4ef9bd9",
-      "latestVersion": "1.1",
+      "latestPackageVersionId": "pkgver_4a8c9201a77e4ebaa5d",
+      "latestVersion": "1.2",
       "name": "Uninstall Microsoft Teams",
       "publisher": "PDQ.com",
       "source": "pdq"
@@ -698,24 +738,24 @@
     },
     {
       "id": "pkg_2ef1cffd8d414f69b2d",
-      "latestPackageVersionId": "pkgver_986e169b4d9b4072bb7",
-      "latestVersion": "15.55.3",
+      "latestPackageVersionId": "pkgver_7bdf5e48b8fe48f7969",
+      "latestVersion": "15.62.4",
       "name": "TeamViewer 15 (64-bit)",
       "publisher": "TeamViewer",
       "source": "pdq"
     },
     {
       "id": "pkg_22e328464df449d5a78",
-      "latestPackageVersionId": "pkgver_f596f4da1a574399a65",
-      "latestVersion": "15.57.3",
+      "latestPackageVersionId": "pkgver_ac309dd29d864a868c9",
+      "latestVersion": "15.62.4",
       "name": "TeamViewer 15",
       "publisher": "TeamViewer",
       "source": "pdq"
     },
     {
       "id": "pkg_89ae915252584272b31",
-      "latestPackageVersionId": "pkgver_6638309a869246f18e3",
-      "latestVersion": "2024.2",
+      "latestPackageVersionId": "pkgver_4cdb68a53f5844848b4",
+      "latestVersion": "2024.3",
       "name": "Tableau Reader",
       "publisher": "Tableau",
       "source": "pdq"
@@ -754,24 +794,32 @@
     },
     {
       "id": "pkg_8b6732e84ce9488bbdf",
-      "latestPackageVersionId": "pkgver_d5a1f334f1b54024b2f",
-      "latestVersion": "4.40.120",
+      "latestPackageVersionId": "pkgver_dceb61b4a8e14cc2932",
+      "latestVersion": "4.42.117",
       "name": "Slack",
       "publisher": "Slack Technologies",
       "source": "pdq"
     },
     {
       "id": "pkg_754463010ce645fca19",
-      "latestPackageVersionId": "pkgver_9000789df0d644bd94c",
-      "latestVersion": "8.127.0.200",
+      "latestPackageVersionId": "pkgver_8488b346ec6549c0aaa",
+      "latestVersion": "8.136.0.203",
       "name": "Skype",
       "publisher": "Microsoft",
       "source": "pdq"
     },
     {
+      "id": "pkg_03fdfa3214a94f29891",
+      "latestPackageVersionId": "pkgver_bc85dc435d0a4569a1a",
+      "latestVersion": "25.1.25",
+      "name": "Shotcut",
+      "publisher": "Meltytech",
+      "source": "pdq"
+    },
+    {
       "id": "pkg_e09e97965a98403a80a",
-      "latestPackageVersionId": "pkgver_b77f6f25da194a80aba",
-      "latestVersion": "16.1.0",
+      "latestPackageVersionId": "pkgver_fa47b54f291245f0a99",
+      "latestVersion": "17.0.0",
       "name": "ShareX",
       "publisher": "ShareX Team",
       "source": "pdq"
@@ -786,39 +834,39 @@
     },
     {
       "id": "pkg_30dd613b81ed4797b5e",
-      "latestPackageVersionId": "pkgver_c537ac9fc3dc440b8be",
-      "latestVersion": "1.2.5620.0",
+      "latestPackageVersionId": "pkgver_725e42cd8bde4daeb01",
+      "latestVersion": "1.2.5910.0",
       "name": "Remote Desktop (Azure)",
       "publisher": "Microsoft",
       "source": "pdq"
     },
     {
       "id": "pkg_32f5e571884e4663a17",
-      "latestPackageVersionId": "pkgver_965653f852764547959",
-      "latestVersion": "3.38.2",
+      "latestPackageVersionId": "pkgver_afc6f3a12f4440aab6d",
+      "latestVersion": "3.40.3",
       "name": "QGIS",
       "publisher": "QGIS Development Team",
       "source": "pdq"
     },
     {
       "id": "pkg_598f2094eeb140a8975",
-      "latestPackageVersionId": "pkgver_39850817d89f49d491a",
-      "latestVersion": "0.81",
+      "latestPackageVersionId": "pkgver_5d616f1dcf6248ee918",
+      "latestVersion": "0.83",
       "name": "PuTTY (64-bit)",
       "publisher": "Simon Tatham",
       "source": "pdq"
     },
     {
       "id": "pkg_67aff6df7e5f48b09a5",
-      "latestPackageVersionId": "pkgver_7cd90978cc164f3c856",
-      "latestVersion": "0.81",
+      "latestPackageVersionId": "pkgver_7a27c26a50f546efb4f",
+      "latestVersion": "0.83",
       "name": "PuTTY",
       "publisher": "Simon Tatham",
       "source": "pdq"
     },
     {
       "id": "pkg_14d3718835004afd932",
-      "latestPackageVersionId": "pkgver_f381f8cedc744361bb8",
+      "latestPackageVersionId": "pkgver_f8d643e537ae4e379fc",
       "latestVersion": "2.2.0.3",
       "name": "PSWindowsUpdate - Install Specific Microsoft KB",
       "publisher": "PowerShellGallery",
@@ -826,105 +874,97 @@
     },
     {
       "id": "pkg_e61a680e7a404797b52",
-      "latestPackageVersionId": "pkgver_58c43176713045e0a94",
-      "latestVersion": "2.2.1.4",
+      "latestPackageVersionId": "pkgver_d2b263e4b81b45dbb2f",
+      "latestVersion": "2.2.1.5",
       "name": "PSWindowsUpdate - Install Applicable Feature Updates from Microsoft",
       "publisher": "PowerShellGallery",
       "source": "pdq"
     },
     {
       "id": "pkg_37f7baeae8a7432bbf5",
-      "latestPackageVersionId": "pkgver_ac66f31900e74637887",
-      "latestVersion": "2.2.1.4",
+      "latestPackageVersionId": "pkgver_8c770c8aba0b4d4580f",
+      "latestVersion": "2.2.1.5",
       "name": "PSWindowsUpdate - Install Applicable Drivers from Microsoft",
       "publisher": "PowerShellGallery",
       "source": "pdq"
     },
     {
       "id": "pkg_89e6e28620844a53a77",
-      "latestPackageVersionId": "pkgver_403dcb8dd33a401e870",
-      "latestVersion": "2.2.1.4",
+      "latestPackageVersionId": "pkgver_11440669837f4b89a04",
+      "latestVersion": "2.2.1.5",
       "name": "PSWindowsUpdate - Install Applicable Critical and Security Updates from Microsoft",
       "publisher": "PowerShellGallery",
       "source": "pdq"
     },
     {
       "id": "pkg_65bab8fd96c04f5a8b6",
-      "latestPackageVersionId": "pkgver_a5039cbda1134afea7e",
-      "latestVersion": "2.2.1.4",
+      "latestPackageVersionId": "pkgver_83d288c124a64bf29f4",
+      "latestVersion": "2.2.1.5",
       "name": "PSWindowsUpdate - Install All Applicable Updates from Microsoft (No Drivers, No Feature Updates)",
       "publisher": "PowerShellGallery",
       "source": "pdq"
     },
     {
       "id": "pkg_e99a30b65ac64ea7993",
-      "latestPackageVersionId": "pkgver_7f02038fbe734e34935",
-      "latestVersion": "2.2.1.4.1",
+      "latestPackageVersionId": "pkgver_3d096561d24b4bfeaf7",
+      "latestVersion": "2.2.1.5.1",
       "name": "PSWindowsUpdate - Get All Applicable Updates from Microsoft (Audit Only)",
       "publisher": "PowerShellGallery",
       "source": "pdq"
     },
     {
       "id": "pkg_c4ad1e15172f48d38a9",
-      "latestPackageVersionId": "pkgver_cde7394604b746d8a88",
-      "latestVersion": "0.83.0",
+      "latestPackageVersionId": "pkgver_6671ad51b0c24c11b53",
+      "latestVersion": "0.88.0",
       "name": "PowerToys",
       "publisher": "Microsoft",
       "source": "pdq"
     },
     {
       "id": "pkg_f28e937c4744457a8b3",
-      "latestPackageVersionId": "pkgver_81e07acea547465eac5",
-      "latestVersion": "7.4.5",
+      "latestPackageVersionId": "pkgver_750046d252454d80803",
+      "latestVersion": "7.5.0",
       "name": "PowerShell 7",
       "publisher": "Microsoft",
       "source": "pdq"
     },
     {
       "id": "pkg_3dc958f93fc847c3a1c",
-      "latestPackageVersionId": "pkgver_1a83829b1dec4ded85d",
-      "latestVersion": "2.132.1053.0",
+      "latestPackageVersionId": "pkgver_ea474c3364384c3e98e",
+      "latestVersion": "2.139.2054.0",
       "name": "Power BI Desktop",
       "publisher": "Microsoft",
       "source": "pdq"
     },
     {
       "id": "pkg_12f5b17948c54e2a892",
-      "latestPackageVersionId": "pkgver_2d324b4f48b242a9b62",
-      "latestVersion": "2.46.163.24194",
+      "latestPackageVersionId": "pkgver_e262015872ed4242be7",
+      "latestVersion": "2.52.62.25009",
       "name": "Power Automate Desktop",
       "publisher": "Microsoft",
       "source": "pdq"
     },
     {
       "id": "pkg_59f46dee873a4b01a00",
-      "latestPackageVersionId": "pkgver_f1b3faea29c0484d886",
-      "latestVersion": "2.14.13",
+      "latestPackageVersionId": "pkgver_a01aaa056b2e40e48b8",
+      "latestVersion": "2.14.14",
       "name": "Pidgin",
       "publisher": "Pidgin",
       "source": "pdq"
     },
     {
       "id": "pkg_48098a56af774d15a68",
-      "latestPackageVersionId": "pkgver_7e3906b5cfef4586a8f",
-      "latestVersion": "9.9.1",
+      "latestPackageVersionId": "pkgver_ea6cda75e1de4a6f860",
+      "latestVersion": "10.2.0",
       "name": "PeaZip",
       "publisher": "Giorgio Tani",
       "source": "pdq"
     },
     {
       "id": "pkg_9c5aabc84cc343168a2",
-      "latestPackageVersionId": "pkgver_036af3a231834002a3c",
+      "latestPackageVersionId": "pkgver_629240bd5e4e494aa30",
       "latestVersion": "1.0.0",
       "name": "PDQ Uninstall It All",
-      "publisher": "PDQ.com",
-      "source": "pdq"
-    },
-    {
-      "id": "pkg_78a86389e1294faf9f3",
-      "latestPackageVersionId": "pkgver_af028b071fd34ce6bd1",
-      "latestVersion": "1.0.1",
-      "name": "PDQ Test Package",
       "publisher": "PDQ.com",
       "source": "pdq"
     },
@@ -938,88 +978,96 @@
     },
     {
       "id": "pkg_387475c71bfd47eab85",
-      "latestPackageVersionId": "pkgver_44127e43c141474584e",
-      "latestVersion": "19.3.605.0",
+      "latestPackageVersionId": "pkgver_a7c4bbafb4844cdeb2d",
+      "latestVersion": "19.4.51.0",
       "name": "PDQ Inventory",
       "publisher": "PDQ.com",
       "source": "pdq"
     },
     {
       "id": "pkg_dd491c1630094584a18",
-      "latestPackageVersionId": "pkgver_5c532c1c11804c55b77",
-      "latestVersion": "19.3.605.0",
+      "latestPackageVersionId": "pkgver_fc9f51ae85df4a4fb19",
+      "latestVersion": "19.4.51.0",
       "name": "PDQ Deploy",
       "publisher": "PDQ.com",
       "source": "pdq"
     },
     {
       "id": "pkg_1b73f921b45c4a27b77",
-      "latestPackageVersionId": "pkgver_7616cade095b4880bb3",
-      "latestVersion": "10.3.1.387",
+      "latestPackageVersionId": "pkgver_fd7be9f0e83c44cbbb9",
+      "latestVersion": "10.5.1.394",
       "name": "PDF-XChange Editor",
       "publisher": "Tracker Software",
       "source": "pdq"
     },
     {
       "id": "pkg_32099036f6244f50a7d",
-      "latestPackageVersionId": "pkgver_67d4f760ba3e46fd9bc",
-      "latestVersion": "5.2.6",
+      "latestPackageVersionId": "pkgver_f635c1f861f64a43823",
+      "latestVersion": "5.3.0",
       "name": "PDFsam Basic",
       "publisher": "Andrea Vacondio",
       "source": "pdq"
     },
     {
       "id": "pkg_ed978b165e864b49ace",
-      "latestPackageVersionId": "pkgver_a1fe61aff6104f708ba",
-      "latestVersion": "2.1.8",
+      "latestPackageVersionId": "pkgver_e6eaeb3d1d1845ca90c",
+      "latestVersion": "2.1.12",
       "name": "PDFGear",
       "publisher": "PDFGear",
       "source": "pdq"
     },
     {
       "id": "pkg_78afb481ade5497dbd8",
-      "latestPackageVersionId": "pkgver_df190fd8bf16444c820",
-      "latestVersion": "11.19.0",
+      "latestPackageVersionId": "pkgver_d7f14d6322f745beb61",
+      "latestVersion": "11.23.0",
       "name": "PDF24 Creator",
       "publisher": "PDF24.org",
       "source": "pdq"
     },
     {
       "id": "pkg_2ad3acfc5db548379ed",
-      "latestPackageVersionId": "pkgver_35ade750a8d84186891",
-      "latestVersion": "5.0.13",
+      "latestPackageVersionId": "pkgver_e4b01dc42ded4cab983",
+      "latestVersion": "5.1.3",
       "name": "paint.net",
       "publisher": "Paint.NET",
       "source": "pdq"
     },
     {
       "id": "pkg_7208205ff00f47799d4",
-      "latestPackageVersionId": "pkgver_c2cf4e68489b4e04a7f",
-      "latestVersion": "113.0.5230.47",
+      "latestPackageVersionId": "pkgver_b2e53b0891064a6a8bb",
+      "latestVersion": "116.0.5366.71",
       "name": "Opera",
       "publisher": "Opera Software ASA",
       "source": "pdq"
     },
     {
       "id": "pkg_10b206ad83234537954",
-      "latestPackageVersionId": "pkgver_2ffc0f4104604ca3877",
-      "latestVersion": "3.2.1",
+      "latestPackageVersionId": "pkgver_7661049254594806b3d",
+      "latestVersion": "3.3.0",
       "name": "OpenShot",
       "publisher": "OpenShot",
       "source": "pdq"
     },
     {
+      "id": "pkg_c5530bad12714c5f83d",
+      "latestPackageVersionId": "pkgver_ce8f71a7969647d8b3f",
+      "latestVersion": "31.0.1",
+      "name": "OBS Studio",
+      "publisher": "OBS Project",
+      "source": "pdq"
+    },
+    {
       "id": "pkg_ad3b8c39dab9455d95c",
-      "latestPackageVersionId": "pkgver_3c385b5e0abf4370a0f",
-      "latestVersion": "8.6.9",
+      "latestPackageVersionId": "pkgver_d5d8332bcd604124a1e",
+      "latestVersion": "8.7.7",
       "name": "Notepad++",
       "publisher": "Notepad++",
       "source": "pdq"
     },
     {
       "id": "pkg_140556afb47e44efa47",
-      "latestPackageVersionId": "pkgver_e5744db8d36a4342a34",
-      "latestVersion": "22.7.0",
+      "latestPackageVersionId": "pkgver_26c73805731e49f78cc",
+      "latestVersion": "23.7.0",
       "name": "Node.js",
       "publisher": "OpenJS Foundation",
       "source": "pdq"
@@ -1034,120 +1082,112 @@
     },
     {
       "id": "pkg_b2f90f7820bb4b619f0",
-      "latestPackageVersionId": "pkgver_e4f28177de4346689b7",
-      "latestVersion": "115.14.0",
+      "latestPackageVersionId": "pkgver_c90f95d68afd4670994",
+      "latestVersion": "128.7.0",
       "name": "Mozilla Thunderbird",
       "publisher": "Mozilla",
       "source": "pdq"
     },
     {
       "id": "pkg_c46cae0daed84b83a44",
-      "latestPackageVersionId": "pkgver_ef92ed0439f948f6ae7",
-      "latestVersion": "129.0.2",
+      "latestPackageVersionId": "pkgver_fad8f9da50cb41028bb",
+      "latestVersion": "135.0",
       "name": "Mozilla Firefox (Spanish)",
       "publisher": "Mozilla",
       "source": "pdq"
     },
     {
       "id": "pkg_05e0a76e8f364d71a20",
-      "latestPackageVersionId": "pkgver_8e7ee28c0143443183f",
-      "latestVersion": "129.0.2",
+      "latestPackageVersionId": "pkgver_a15cafb89f0149df919",
+      "latestVersion": "135.0",
       "name": "Mozilla Firefox (German)",
       "publisher": "Mozilla",
       "source": "pdq"
     },
     {
       "id": "pkg_480f5b737f7444f79de",
-      "latestPackageVersionId": "pkgver_486f020e2fdf4669b08",
-      "latestVersion": "129.0.2",
+      "latestPackageVersionId": "pkgver_f8ad101fa00f4e6f8dd",
+      "latestVersion": "135.0",
       "name": "Mozilla Firefox (French)",
       "publisher": "Mozilla",
       "source": "pdq"
     },
     {
       "id": "pkg_0d74719c106045e7b6b",
-      "latestPackageVersionId": "pkgver_ea1e72557861433784c",
-      "latestVersion": "128.1.0",
+      "latestPackageVersionId": "pkgver_13c0d591a09f44d9b74",
+      "latestVersion": "128.7.0",
       "name": "Mozilla Firefox ESR (Spanish)",
       "publisher": "Mozilla",
       "source": "pdq"
     },
     {
       "id": "pkg_f8536d3e9ddc4447ae8",
-      "latestPackageVersionId": "pkgver_a81b6aff328c4bb4a38",
-      "latestVersion": "128.1.0",
+      "latestPackageVersionId": "pkgver_4f7901efc8bd4a27ae0",
+      "latestVersion": "128.7.0",
       "name": "Mozilla Firefox ESR (German)",
       "publisher": "Mozilla",
       "source": "pdq"
     },
     {
       "id": "pkg_40056d2715ca41daa39",
-      "latestPackageVersionId": "pkgver_9e0c7b329c7141899c9",
-      "latestVersion": "128.1.0",
+      "latestPackageVersionId": "pkgver_4acd33ad95ea4f74b2b",
+      "latestVersion": "128.7.0",
       "name": "Mozilla Firefox ESR (French)",
       "publisher": "Mozilla",
       "source": "pdq"
     },
     {
       "id": "pkg_65280d5166ce49fa965",
-      "latestPackageVersionId": "pkgver_c383482344024f11b8f",
-      "latestVersion": "128.1.0",
+      "latestPackageVersionId": "pkgver_2464a572d5064c01ade",
+      "latestVersion": "128.7.0",
       "name": "Mozilla Firefox ESR (Dutch)",
       "publisher": "Mozilla",
       "source": "pdq"
     },
     {
       "id": "pkg_4165ee065f56450c879",
-      "latestPackageVersionId": "pkgver_b2fb2e48373e4c21a50",
-      "latestVersion": "128.1.0",
+      "latestPackageVersionId": "pkgver_0d6cd33946ef47a290b",
+      "latestVersion": "128.7.0",
       "name": "Mozilla Firefox ESR",
       "publisher": "Mozilla",
       "source": "pdq"
     },
     {
       "id": "pkg_e13fd53a9f354367b88",
-      "latestPackageVersionId": "pkgver_b8e3b89664964efb8d0",
-      "latestVersion": "129.0.2",
+      "latestPackageVersionId": "pkgver_fde71f8aa1b344e2b2e",
+      "latestVersion": "135.0",
       "name": "Mozilla Firefox (Dutch)",
       "publisher": "Mozilla",
       "source": "pdq"
     },
     {
       "id": "pkg_a7e9a4dcbb414696b64",
-      "latestPackageVersionId": "pkgver_a7ae123e78a048f9b7c",
-      "latestVersion": "129.0.2",
+      "latestPackageVersionId": "pkgver_eabfb4dc81d14313bcf",
+      "latestVersion": "135.0",
       "name": "Mozilla Firefox",
       "publisher": "Mozilla",
       "source": "pdq"
     },
     {
-      "id": "pkg_d773005c5a47467f9f1",
-      "latestPackageVersionId": "pkgver_a18417d45727467881e",
-      "latestVersion": "128.0.2739.54",
-      "name": "Microsoft WebView2",
-      "publisher": "Microsoft",
-      "source": "pdq"
-    },
-    {
       "id": "pkg_ec0aabece0c84501b21",
-      "latestPackageVersionId": "pkgver_886a04f766fd4048b7a",
-      "latestVersion": "14.40.33810.0",
+      "latestPackageVersionId": "pkgver_f4df7ef41fe1478ebde",
+      "latestVersion": "14.42.34433.0",
       "name": "Microsoft Visual C++ 2015-2022 Runtime",
       "publisher": "Microsoft",
       "source": "pdq"
     },
     {
       "id": "pkg_e5428e578ef748d394f",
-      "latestPackageVersionId": "pkgver_3b8dae96b121417787d",
-      "latestVersion": "1.7.0.21751",
+      "latestPackageVersionId": "pkgver_1db010559af44cf1a4f",
+      "latestVersion": "1.8.0.1362",
       "name": "Microsoft Teams (Classic)",
       "publisher": "Microsoft",
       "source": "pdq"
     },
     {
       "id": "pkg_43a03208bc9c436e8cf",
-      "latestPackageVersionId": "pkgver_bd75b01d430b484f8d2",
-      "latestVersion": "24193.1805.3040.8975",
+      "latestPackageVersionId": "pkgver_b765035af5a94c2195b",
+      "latestVersion": "25017.203.3370.1174",
       "name": "Microsoft Teams",
       "publisher": "Microsoft",
       "source": "pdq"
@@ -1194,8 +1234,8 @@
     },
     {
       "id": "pkg_67008f40aee44a08b7b",
-      "latestPackageVersionId": "pkgver_65fba246a7fe4c3a9b3",
-      "latestVersion": "8.0.8",
+      "latestPackageVersionId": "pkgver_b4bb33e7410042f5b5f",
+      "latestVersion": "8.0.12",
       "name": "Microsoft .NET Desktop Runtime 8",
       "publisher": "Microsoft",
       "source": "pdq"
@@ -1210,200 +1250,216 @@
     },
     {
       "id": "pkg_950aaa6c727f45719ce",
-      "latestPackageVersionId": "pkgver_d3674447c9604fa8900",
-      "latestVersion": "6.0.33",
+      "latestPackageVersionId": "pkgver_04105cb9fd1f4dbaa3a",
+      "latestVersion": "6.0.36",
       "name": "Microsoft .NET Desktop Runtime 6",
       "publisher": "Microsoft",
       "source": "pdq"
     },
     {
       "id": "pkg_4a570a6dd179449382c",
-      "latestPackageVersionId": "pkgver_8183c40ae0bf49e898d",
-      "latestVersion": "128.0.2739.54",
+      "latestPackageVersionId": "pkgver_32851e2813564804809",
+      "latestVersion": "133.0.3065.59",
       "name": "Microsoft Edge for Business",
       "publisher": "Microsoft",
       "source": "pdq"
     },
     {
       "id": "pkg_9503d9b58f5d4ce987b",
-      "latestPackageVersionId": "pkgver_58a7d9ff4c2a4dd5960",
-      "latestVersion": "8.0.8",
+      "latestPackageVersionId": "pkgver_f167a1aeff4641c3bc4",
+      "latestVersion": "8.0.12",
       "name": "Microsoft ASP.NET Core 8 Runtime",
       "publisher": "Microsoft",
       "source": "pdq"
     },
     {
       "id": "pkg_86a64585988b45f3b52",
-      "latestPackageVersionId": "pkgver_73eb81b8e25d47069a5",
-      "latestVersion": "6.0.33",
+      "latestPackageVersionId": "pkgver_539dc77297c44c3d80d",
+      "latestVersion": "6.0.36",
       "name": "Microsoft ASP.NET Core 6 Runtime",
       "publisher": "Microsoft",
       "source": "pdq"
     },
     {
       "id": "pkg_e0e0e1cd693843cbbe4",
-      "latestPackageVersionId": "pkgver_60cdde615b9248a9bce",
-      "latestVersion": "24.8.0",
+      "latestPackageVersionId": "pkgver_c9de5dad10864f17b3f",
+      "latestVersion": "25.2.0",
       "name": "LibreOffice",
       "publisher": "The Document Foundation",
       "source": "pdq"
     },
     {
       "id": "pkg_0e3d7f7fcb634dc984c",
-      "latestPackageVersionId": "pkgver_276a340299554d15b73",
-      "latestVersion": "5.2.3",
+      "latestPackageVersionId": "pkgver_c405d9e70de34692ba3",
+      "latestVersion": "5.2.9",
       "name": "Krita",
       "publisher": "Krita Foundation",
       "source": "pdq"
     },
     {
+      "id": "pkg_442348834dcd422091c",
+      "latestPackageVersionId": "pkgver_62d9038ea2b140cd87e",
+      "latestVersion": "18.8.0",
+      "name": "K-Lite Codec Pack (Mega)",
+      "publisher": "KLCP",
+      "source": "pdq"
+    },
+    {
       "id": "pkg_44a36224ffdb4acda28",
-      "latestPackageVersionId": "pkgver_4054330e1d8c46af975",
-      "latestVersion": "2.57",
+      "latestPackageVersionId": "pkgver_83968512a3224bb5bba",
+      "latestVersion": "2.57.1",
       "name": "KeePass Password Safe",
       "publisher": "KeePass",
       "source": "pdq"
     },
     {
       "id": "pkg_82748c5df3d74c97bfe",
-      "latestPackageVersionId": "pkgver_8593c1d48fe64e73be6",
-      "latestVersion": "8.0.4210.9",
+      "latestPackageVersionId": "pkgver_e921ff92f8724bdfb5e",
+      "latestVersion": "8.0.4410.7",
       "name": "Java 8 (64-bit)",
       "publisher": "Oracle",
       "source": "pdq"
     },
     {
       "id": "pkg_e4965925ac084464b4d",
-      "latestPackageVersionId": "pkgver_56598e661a4d4bd08a7",
-      "latestVersion": "8.0.4210.9",
+      "latestPackageVersionId": "pkgver_590598aa68b94c359f7",
+      "latestVersion": "8.0.4410.7",
       "name": "Java 8",
       "publisher": "Oracle",
       "source": "pdq"
     },
     {
       "id": "pkg_0aa16ad7e9c64ebc905",
-      "latestPackageVersionId": "pkgver_0559503e53114e3e842",
-      "latestVersion": "12.13.2.3",
+      "latestPackageVersionId": "pkgver_59aaa9e018434cf188f",
+      "latestVersion": "12.13.4.4",
       "name": "iTunes (No Bonjour)",
       "publisher": "Apple",
       "source": "pdq"
     },
     {
       "id": "pkg_375145431d5742bf899",
-      "latestPackageVersionId": "pkgver_66ac1d1362034dca857",
-      "latestVersion": "12.13.2.3",
+      "latestPackageVersionId": "pkgver_b14114d68b8d4c56a4e",
+      "latestVersion": "12.13.4.4",
       "name": "iTunes",
       "publisher": "Apple",
       "source": "pdq"
     },
     {
       "id": "pkg_e120f80a6dc14076baf",
-      "latestPackageVersionId": "pkgver_78f163ad3fa149778a4",
-      "latestVersion": "4.67",
+      "latestPackageVersionId": "pkgver_3619e91ec8cb4c2e980",
+      "latestVersion": "4.70",
       "name": "IrfanView (with Plugins)",
       "publisher": "IrfanView",
       "source": "pdq"
     },
     {
       "id": "pkg_40a22f3dfe29427b883",
-      "latestPackageVersionId": "pkgver_ff438ca65430426fa3d",
-      "latestVersion": "4.67",
+      "latestPackageVersionId": "pkgver_a9d64d1ce6c4439e88a",
+      "latestVersion": "4.70",
       "name": "IrfanView",
       "publisher": "IrfanView",
       "source": "pdq"
     },
     {
       "id": "pkg_9f05de30044c4154baf",
-      "latestPackageVersionId": "pkgver_1f1cf33d26fc4bc48d3",
-      "latestVersion": "1.3.2",
+      "latestPackageVersionId": "pkgver_c4a3f5e97f2446f6ac8",
+      "latestVersion": "1.4",
       "name": "Inkscape",
       "publisher": "Inkscape",
       "source": "pdq"
     },
     {
       "id": "pkg_19cbac841ef74007803",
-      "latestPackageVersionId": "pkgver_4fabd692045742f9919",
-      "latestVersion": "1.8.2",
+      "latestPackageVersionId": "pkgver_8999ed46698a4930a9f",
+      "latestVersion": "1.9.0",
       "name": "HandBrake",
       "publisher": "HandBrake",
       "source": "pdq"
     },
     {
       "id": "pkg_ef0c41c0888f4259a5b",
-      "latestPackageVersionId": "pkgver_fcd559b3aeb44ddbb64",
-      "latestVersion": "96.0.0.0",
+      "latestPackageVersionId": "pkgver_463f468934fe4825b24",
+      "latestVersion": "103.0.3.0",
       "name": "Google Drive",
       "publisher": "Google",
       "source": "pdq"
     },
     {
       "id": "pkg_e08d2207867a49b0b7b",
-      "latestPackageVersionId": "pkgver_432574f5a2f4419db51",
-      "latestVersion": "128.0.6613.114",
+      "latestPackageVersionId": "pkgver_02bc7798ee9449c69e2",
+      "latestVersion": "133.0.6943.60",
       "name": "Google Chrome Enterprise",
       "publisher": "Google",
       "source": "pdq"
     },
     {
       "id": "pkg_8fafe76b22db48a5a2a",
-      "latestPackageVersionId": "pkgver_59a824b760af4a3ea3f",
-      "latestVersion": "2.46.0",
+      "latestPackageVersionId": "pkgver_4ad07fa61e454c6a9f7",
+      "latestVersion": "2.47.1.2",
       "name": "Git for Windows",
       "publisher": "The Git Development Community",
       "source": "pdq"
     },
     {
       "id": "pkg_9732e8eb912447dc81a",
-      "latestPackageVersionId": "pkgver_690a6318457943b39b4",
-      "latestVersion": "2.10.38",
+      "latestPackageVersionId": "pkgver_4ed43369fa694860834",
+      "latestVersion": "2.10.38.1",
       "name": "GIMP",
       "publisher": "The GIMP Team",
       "source": "pdq"
     },
     {
       "id": "pkg_6c5549fb5e334aed93d",
-      "latestPackageVersionId": "pkgver_61a6fb2e75924bab9e6",
-      "latestVersion": "3.3.3309",
+      "latestPackageVersionId": "pkgver_9d4db526689a41d59ed",
+      "latestVersion": "3.3.3316",
       "name": "GanttProject",
       "publisher": "GanttProject Team",
       "source": "pdq"
     },
     {
+      "id": "pkg_79903b09ed88424dafb",
+      "latestPackageVersionId": "pkgver_1c7b220dca8548988b5",
+      "latestVersion": "1.0.0",
+      "name": "FreeCAD",
+      "publisher": "FreeCAD Team",
+      "source": "pdq"
+    },
+    {
       "id": "pkg_1214bf327f0741589b0",
-      "latestPackageVersionId": "pkgver_c11d6ec0edfe411097f",
-      "latestVersion": "2024.2.3.25184",
+      "latestPackageVersionId": "pkgver_2ba639310594485fa90",
+      "latestVersion": "2024.4.0.27683",
       "name": "Foxit Reader (Enterprise)",
       "publisher": "Foxit Software",
       "source": "pdq"
     },
     {
       "id": "pkg_1fb5f5542d5d4bbca0f",
-      "latestPackageVersionId": "pkgver_0defb99985074ac591d",
-      "latestVersion": "2.1.5",
+      "latestPackageVersionId": "pkgver_d9d5c276183a4374af4",
+      "latestVersion": "2.24.1",
       "name": "foobar2000",
       "publisher": "Peter Pawlowski",
       "source": "pdq"
     },
     {
       "id": "pkg_0996ed42cfd84890a16",
-      "latestPackageVersionId": "pkgver_83875a06b2de446aa16",
-      "latestVersion": "3.67.1",
+      "latestPackageVersionId": "pkgver_4a176b0a279f4471a15",
+      "latestVersion": "3.68.1",
       "name": "FileZilla",
       "publisher": "FileZilla Project",
       "source": "pdq"
     },
     {
       "id": "pkg_ceb4988ff6b7463da1d",
-      "latestPackageVersionId": "pkgver_f9eb7b2baff14dc984a",
-      "latestVersion": "10.103.3",
+      "latestPackageVersionId": "pkgver_a348e12d2ccb4ce2895",
+      "latestVersion": "10.125.5",
       "name": "Evernote",
       "publisher": "Evernote",
       "source": "pdq"
     },
     {
       "id": "pkg_b3ad5bb8798e4aeda21",
-      "latestPackageVersionId": "pkgver_f0ec17b45a3940e5ab8",
-      "latestVersion": "32.1.3",
+      "latestPackageVersionId": "pkgver_fd7bdd533334403f99e",
+      "latestVersion": "32.50.30",
       "name": "eDrawings Viewer 2024",
       "publisher": "SolidWorks",
       "source": "pdq"
@@ -1426,144 +1482,152 @@
     },
     {
       "id": "pkg_eff1b0f86faa4fb4a88",
-      "latestPackageVersionId": "pkgver_e89b2bc040ec4b44890",
-      "latestVersion": "8.0.422.5",
+      "latestPackageVersionId": "pkgver_aeb4eff550c04d1caf2",
+      "latestVersion": "8.0.442.6",
       "name": "Eclipse Temurin JRE 8 64-bit",
       "publisher": "Eclipse Temurin",
       "source": "pdq"
     },
     {
       "id": "pkg_237b18f134594090809",
-      "latestPackageVersionId": "pkgver_58f14ebc2cd34b7f970",
-      "latestVersion": "8.0.422.5",
+      "latestPackageVersionId": "pkgver_65d1e6ccf310462d910",
+      "latestVersion": "8.0.442.6",
       "name": "Eclipse Temurin JRE 8 32-bit",
       "publisher": "Eclipse Temurin",
       "source": "pdq"
     },
     {
       "id": "pkg_627d542cec294717b3c",
-      "latestPackageVersionId": "pkgver_a1c6b66a837349fcb1e",
-      "latestVersion": "21.0.4.7",
+      "latestPackageVersionId": "pkgver_4bf73174e626467495f",
+      "latestVersion": "21.0.6.7",
       "name": "Eclipse Temurin JRE 21 64-bit",
       "publisher": "Eclipse Temurin",
       "source": "pdq"
     },
     {
       "id": "pkg_54a6717248994e9aacf",
-      "latestPackageVersionId": "pkgver_7f066fcfccbb4c7fb60",
-      "latestVersion": "17.0.12.7",
+      "latestPackageVersionId": "pkgver_d8d9709dc2ea4228b03",
+      "latestVersion": "17.0.14.7",
       "name": "Eclipse Temurin JRE 17 64-bit",
       "publisher": "Eclipse Temurin",
       "source": "pdq"
     },
     {
       "id": "pkg_d0d85ac7ca4249afa34",
-      "latestPackageVersionId": "pkgver_515e1fc0509f4f0a9f9",
-      "latestVersion": "17.0.12.7",
+      "latestPackageVersionId": "pkgver_0ee4fe6cb61e45489b2",
+      "latestVersion": "17.0.14.7",
       "name": "Eclipse Temurin JRE 17 32-bit",
       "publisher": "Eclipse Temurin",
       "source": "pdq"
     },
     {
       "id": "pkg_aea3dc2a3998430dacf",
-      "latestPackageVersionId": "pkgver_521e0337551a410db8a",
-      "latestVersion": "11.0.24.8",
+      "latestPackageVersionId": "pkgver_05f2be96d8a54d26862",
+      "latestVersion": "11.0.26.4",
       "name": "Eclipse Temurin JRE 11 64-bit",
       "publisher": "Eclipse Temurin",
       "source": "pdq"
     },
     {
       "id": "pkg_09039996551d433e877",
-      "latestPackageVersionId": "pkgver_0bd5f0491f0c41469aa",
-      "latestVersion": "11.0.24.8",
+      "latestPackageVersionId": "pkgver_bf648932da304a21a21",
+      "latestVersion": "11.0.26.4",
       "name": "Eclipse Temurin JRE 11 32-bit",
       "publisher": "Eclipse Temurin",
       "source": "pdq"
     },
     {
       "id": "pkg_168de1170d5f4da7b15",
-      "latestPackageVersionId": "pkgver_eeee6f8762794bbab3c",
-      "latestVersion": "8.0.422.5",
+      "latestPackageVersionId": "pkgver_8b5399506f2f4311a24",
+      "latestVersion": "8.0.442.6",
       "name": "Eclipse Temurin JDK 8 64-bit",
       "publisher": "Eclipse Temurin",
       "source": "pdq"
     },
     {
       "id": "pkg_f97ac9f725fd475b9a6",
-      "latestPackageVersionId": "pkgver_91aa833fdd9a49b1ac6",
-      "latestVersion": "21.0.4.7",
+      "latestPackageVersionId": "pkgver_ed7d6336be8a46afbbc",
+      "latestVersion": "21.0.6.7",
       "name": "Eclipse Temurin JDK 21 64-bit",
       "publisher": "Eclipse Temurin",
       "source": "pdq"
     },
     {
       "id": "pkg_dce4947704224bd49b4",
-      "latestPackageVersionId": "pkgver_5474a1756e2847ba8a2",
-      "latestVersion": "17.0.12.7",
+      "latestPackageVersionId": "pkgver_6a811769732244e98d5",
+      "latestVersion": "17.0.14.7",
       "name": "Eclipse Temurin JDK 17 64-bit",
       "publisher": "Eclipse Temurin",
       "source": "pdq"
     },
     {
       "id": "pkg_97fb0703e2fd4c74980",
-      "latestPackageVersionId": "pkgver_721de81531e440a1ac5",
-      "latestVersion": "11.0.24.8",
+      "latestPackageVersionId": "pkgver_b6b824054252401db19",
+      "latestVersion": "11.0.26.4",
       "name": "Eclipse Temurin JDK 11 64-bit",
       "publisher": "Eclipse Temurin",
       "source": "pdq"
     },
     {
       "id": "pkg_e017977ddca14ef9b0f",
-      "latestPackageVersionId": "pkgver_ab9e4f578013464eb19",
-      "latestVersion": "206.4.6506",
+      "latestPackageVersionId": "pkgver_b69356060fbd462c8b2",
+      "latestVersion": "217.4.4417",
       "name": "Dropbox",
       "publisher": "Dropbox",
       "source": "pdq"
     },
     {
       "id": "pkg_c5967bece8184f67805",
-      "latestPackageVersionId": "pkgver_2ff9f001be0f4ac88a0",
-      "latestVersion": "24.7.8",
+      "latestPackageVersionId": "pkgver_76f541d5d2ce4adc918",
+      "latestVersion": "26.0.9",
       "name": "Draw.io",
       "publisher": "JGraph Ltd",
       "source": "pdq"
     },
     {
+      "id": "pkg_a6b5a64655b94c66bca",
+      "latestPackageVersionId": "pkgver_6967a30feb154cfbae7",
+      "latestVersion": "24.3.4",
+      "name": "DBeaver",
+      "publisher": "DBeaver Corp",
+      "source": "pdq"
+    },
+    {
       "id": "pkg_de84fd86c8a7464eae0",
-      "latestPackageVersionId": "pkgver_f4b62d0a46a943178a8",
-      "latestVersion": "3.12.2",
+      "latestPackageVersionId": "pkgver_44797106fba8446886f",
+      "latestVersion": "3.13.1",
       "name": "DB Browser for SQLite",
       "publisher": "Mauricio Piacentini",
       "source": "pdq"
     },
     {
       "id": "pkg_302dd56c4f2b4ddd902",
-      "latestPackageVersionId": "pkgver_f08ce04dcdf74a04b3d",
-      "latestVersion": "8.0.5",
+      "latestPackageVersionId": "pkgver_f2f3d7d77edf4fea956",
+      "latestVersion": "8.0.6",
       "name": "CrystalDiskMark",
       "publisher": "Crystal Dew World",
       "source": "pdq"
     },
     {
       "id": "pkg_6cdab0b2b1df47658ff",
-      "latestPackageVersionId": "pkgver_82b26837e38049009fd",
-      "latestVersion": "24.5.10.29",
+      "latestPackageVersionId": "pkgver_1124aa8c6b3942449a3",
+      "latestVersion": "24.9.10.28.1",
       "name": "Citrix Workspace App",
       "publisher": "Citrix",
       "source": "pdq"
     },
     {
       "id": "pkg_1b92af613b924147aaa",
-      "latestPackageVersionId": "pkgver_42e8b980cb7b44468ba",
-      "latestVersion": "4.2.1",
+      "latestPackageVersionId": "pkgver_7324be2ed3dd4a4caef",
+      "latestVersion": "4.3.2",
       "name": "Blender",
       "publisher": "Blender Foundation",
       "source": "pdq"
     },
     {
       "id": "pkg_f55165d56c7a421f9cc",
-      "latestPackageVersionId": "pkgver_84961585ba374735a4d",
-      "latestVersion": "2024.8.1",
+      "latestPackageVersionId": "pkgver_a9df527f1d2b44638ce",
+      "latestVersion": "2025.1.4",
       "name": "BitWarden",
       "publisher": "BitWarden",
       "source": "pdq"
@@ -1593,41 +1657,57 @@
       "source": "pdq"
     },
     {
+      "id": "pkg_14e27de0aef440c290f",
+      "latestPackageVersionId": "pkgver_0a3b402481424fa98cb",
+      "latestVersion": "3.7.1",
+      "name": "Audacity (64-bit)",
+      "publisher": "Audacity",
+      "source": "pdq"
+    },
+    {
       "id": "pkg_43b238cfbfdd41b2989",
-      "latestPackageVersionId": "pkgver_a92601cf8b1c4bbabb8",
-      "latestVersion": "3.6.1",
+      "latestPackageVersionId": "pkgver_90fa1be416b54b8c928",
+      "latestVersion": "3.7.1",
       "name": "Audacity",
       "publisher": "Audacity",
       "source": "pdq"
     },
     {
+      "id": "pkg_54e5dfe2d9e949eeafd",
+      "latestPackageVersionId": "pkgver_74bb6123925d424083a",
+      "latestVersion": "24.5.20399",
+      "name": "Adobe Reader DC Patch (64-bit)",
+      "publisher": "Adobe",
+      "source": "pdq"
+    },
+    {
       "id": "pkg_a61085ef8c894449a3a",
-      "latestPackageVersionId": "pkgver_a78cdc817fa641a89f4",
-      "latestVersion": "24.3.20054",
+      "latestPackageVersionId": "pkgver_bb9326749a96452d960",
+      "latestVersion": "24.5.20399",
       "name": "Adobe Reader DC Patch (32-bit)",
       "publisher": "Adobe",
       "source": "pdq"
     },
     {
       "id": "pkg_06a004d180944c1c951",
-      "latestPackageVersionId": "pkgver_66d74ae032774e1b9c1",
-      "latestVersion": "24.3.20054",
+      "latestPackageVersionId": "pkgver_dd6955bbf7e4444880e",
+      "latestVersion": "24.5.20399",
       "name": "Adobe Reader DC (32-bit)",
       "publisher": "Adobe",
       "source": "pdq"
     },
     {
       "id": "pkg_f02ce44e467140238e8",
-      "latestPackageVersionId": "pkgver_3ba6e38ca84242fa951",
-      "latestVersion": "20.5.30655",
+      "latestPackageVersionId": "pkgver_65ee9fcc77ed4d409f7",
+      "latestVersion": "20.5.30748",
       "name": "Adobe Reader DC 2020 Patch (Classic)",
       "publisher": "Adobe",
       "source": "pdq"
     },
     {
       "id": "pkg_8ba9058af22443de987",
-      "latestPackageVersionId": "pkgver_24e5780ff9354ab19fe",
-      "latestVersion": "20.5.30655",
+      "latestPackageVersionId": "pkgver_1e8428146d644b7f9b9",
+      "latestVersion": "20.5.30748",
       "name": "Adobe Reader DC 2020 (Classic)",
       "publisher": "Adobe",
       "source": "pdq"
@@ -1650,24 +1730,40 @@
     },
     {
       "id": "pkg_fd27c7f88bf644978c6",
-      "latestPackageVersionId": "pkgver_0b4ed11bc9094fe1817",
-      "latestVersion": "51.1.1.3",
+      "latestPackageVersionId": "pkgver_3add0765d8a247f0b70",
+      "latestVersion": "51.1.3.4",
       "name": "Adobe AIR",
       "publisher": "Adobe",
       "source": "pdq"
     },
     {
+      "id": "pkg_4fea36db22544b78991",
+      "latestPackageVersionId": "pkgver_4302c23bb21049c8a98",
+      "latestVersion": "24.5.20399",
+      "name": "Adobe Acrobat DC Patch (64-bit)",
+      "publisher": "Adobe",
+      "source": "pdq"
+    },
+    {
+      "id": "pkg_4b6c7b97f9134e06847",
+      "latestPackageVersionId": "pkgver_a88ac5865e334645a10",
+      "latestVersion": "24.5.20399",
+      "name": "Adobe Acrobat DC Patch (32-bit)",
+      "publisher": "Adobe",
+      "source": "pdq"
+    },
+    {
       "id": "pkg_426e379c71e14d819f5",
-      "latestPackageVersionId": "pkgver_a4f6c2a184ed409886a",
-      "latestVersion": "24.8",
+      "latestPackageVersionId": "pkgver_261722c39c5647728bd",
+      "latestVersion": "24.9",
       "name": "7-Zip",
       "publisher": "7-Zip",
       "source": "pdq"
     },
     {
       "id": "pkg_4aa14a6239a94f2eb04",
-      "latestPackageVersionId": "pkgver_9f6413b422e645ba8e3",
-      "latestVersion": "8.10.40",
+      "latestPackageVersionId": "pkgver_65d5a4f641a943a48bb",
+      "latestVersion": "8.10.60",
       "name": "1Password",
       "publisher": "Agilebits Inc.",
       "source": "pdq"
