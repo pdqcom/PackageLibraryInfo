@@ -2,16 +2,24 @@
   "packages": [
     {
       "id": "pkg_a5226a650d30450495b",
-      "latestPackageVersionId": "pkgver_05ee577bd1de40cf81b",
-      "latestVersion": "6.4.3.63669",
+      "latestPackageVersionId": "pkgver_71ce7539afbf463f86a",
+      "latestVersion": "6.4.5.64357",
       "name": "Zoom Client",
       "publisher": "Zoom",
       "source": "pdq"
     },
     {
+      "id": "pkg_e9a41c9336304b2f83c",
+      "latestPackageVersionId": "pkgver_762f3e7fe62e49b89f0",
+      "latestVersion": "0",
+      "name": "zip bug test",
+      "publisher": "PDQ Solutions",
+      "source": "custom"
+    },
+    {
       "id": "pkg_ee5a06e2c9f64b109c2",
-      "latestPackageVersionId": "pkgver_4a447d4925d84c0fbe6",
-      "latestVersion": "1.11.1",
+      "latestPackageVersionId": "pkgver_1c4c8637e9964523866",
+      "latestVersion": "1.11.3",
       "name": "Zen Browser",
       "publisher": "Mozilla",
       "source": "pdq"
@@ -25,12 +33,28 @@
       "source": "pdq"
     },
     {
+      "id": "pkg_2ce4968be70848d2b19",
+      "latestPackageVersionId": "pkgver_fcd7d2b7fd2e446eb87",
+      "latestVersion": "0",
+      "name": "Xcopy test",
+      "publisher": "PDQ Solutions",
+      "source": "custom"
+    },
+    {
       "id": "pkg_8e0f33b77039446698f",
       "latestPackageVersionId": "pkgver_439774e7ecd24557ad0",
       "latestVersion": "4.25",
       "name": "WizTree",
       "publisher": "Antibody Software",
       "source": "pdq"
+    },
+    {
+      "id": "pkg_2a5431a7757c4be59f1",
+      "latestPackageVersionId": "pkgver_7da13d1075e046f2985",
+      "latestVersion": "0",
+      "name": "Wireshark Test",
+      "publisher": "PDQ Solutions",
+      "source": "custom"
     },
     {
       "id": "pkg_07dc34753435457994e",
@@ -49,81 +73,129 @@
       "source": "pdq"
     },
     {
+      "id": "pkg_dfcf648f5ebf46b180a",
+      "latestPackageVersionId": "pkgver_68014e376ae2452298b",
+      "latestVersion": "1.0.0",
+      "name": "Windows Subsystem for Linux (WSL)",
+      "publisher": "Microsoft",
+      "source": "pdq"
+    },
+    {
       "id": "pkg_7e98a76e3a164a28af0",
-      "latestPackageVersionId": "pkgver_cd7c35b9c7b54235bf1",
-      "latestVersion": "20250114",
+      "latestPackageVersionId": "pkgver_7ecd0ebe65a24400b35",
+      "latestVersion": "20250408",
       "name": "Windows Server 2022 - .NET Framework 4.8 Cumulative Update",
       "publisher": "Microsoft",
       "source": "pdq"
     },
     {
       "id": "pkg_a8e6079ff85a45a5b72",
-      "latestPackageVersionId": "pkgver_b55059d82cd54cbc84d",
-      "latestVersion": "20250114",
+      "latestPackageVersionId": "pkgver_500d7976df5f409a805",
+      "latestVersion": "20250408",
       "name": "Windows Server 2022 - .NET Framework 4.8.1 Cumulative Update",
       "publisher": "Microsoft",
       "source": "pdq"
     },
     {
       "id": "pkg_23a7f5ffdd564775abd",
-      "latestPackageVersionId": "pkgver_5ea8512dbdd64a1eba9",
-      "latestVersion": "20250311",
+      "latestPackageVersionId": "pkgver_c0e508b1bdb94b4ab95",
+      "latestVersion": "20250408",
       "name": "Windows Server 2022 - Cumulative Update (64-bit)",
       "publisher": "Microsoft",
       "source": "pdq"
     },
     {
       "id": "pkg_d3060f1f6ad34586b04",
-      "latestPackageVersionId": "pkgver_a21f565004664156957",
-      "latestVersion": "20250114",
+      "latestPackageVersionId": "pkgver_5de01402d3b74401a93",
+      "latestVersion": "20250408",
       "name": "Windows Server 2019 - .NET Framework 4.8 Cumulative Update",
       "publisher": "Microsoft",
       "source": "pdq"
     },
     {
       "id": "pkg_315daf28be534785b84",
-      "latestPackageVersionId": "pkgver_96df35aea69a41618a8",
-      "latestVersion": "20250114",
+      "latestPackageVersionId": "pkgver_96a9201af3994507b28",
+      "latestVersion": "20250408",
       "name": "Windows Server 2019 - .NET Framework 4.7.2 Cumulative Update",
       "publisher": "Microsoft",
       "source": "pdq"
     },
     {
       "id": "pkg_8f1640406d134696874",
-      "latestPackageVersionId": "pkgver_f9fcc595221f48eb848",
-      "latestVersion": "20250114",
+      "latestPackageVersionId": "pkgver_35c4259953d44dd0981",
+      "latestVersion": "20250408",
       "name": "Windows Server 2016 - .NET Framework 4.8 Cumulative Update",
       "publisher": "Microsoft",
       "source": "pdq"
     },
     {
+      "id": "pkg_303b6185df114b5989e",
+      "latestPackageVersionId": "pkgver_79943dfa46824f7294f",
+      "latestVersion": "0",
+      "name": "Windows 11 Readiness Checker",
+      "publisher": "PDQ Solutions",
+      "source": "custom"
+    },
+    {
+      "id": "pkg_dc5d8b0609544d5a8d7",
+      "latestPackageVersionId": "pkgver_4e960fcca6644842985",
+      "latestVersion": "0",
+      "name": "Windows 11 installation files",
+      "publisher": "PDQ Solutions",
+      "source": "custom"
+    },
+    {
+      "id": "pkg_d30748b8428d4966b10",
+      "latestPackageVersionId": "pkgver_d71111bd194a4bf788a",
+      "latestVersion": "0",
+      "name": "Windows 11 Feature Update (Script Step)",
+      "publisher": "PDQ Solutions",
+      "source": "custom"
+    },
+    {
+      "id": "pkg_2a5dbf843bf04894acd",
+      "latestPackageVersionId": "pkgver_14a1ceff54d44913835",
+      "latestVersion": "0",
+      "name": "Windows 11 Feature Update",
+      "publisher": "PDQ Solutions",
+      "source": "custom"
+    },
+    {
+      "id": "pkg_7ee1fdddee524385ad3",
+      "latestPackageVersionId": "pkgver_be43c037d4e54111838",
+      "latestVersion": "0",
+      "name": "Windows 11 Compatibility Check",
+      "publisher": "PDQ Solutions",
+      "source": "custom"
+    },
+    {
       "id": "pkg_e0431e9a2fcd4d53b58",
-      "latestPackageVersionId": "pkgver_9cc591fe51a74deda2e",
-      "latestVersion": "20250311",
+      "latestPackageVersionId": "pkgver_fd3f601a74914b82bf5",
+      "latestVersion": "20250408",
       "name": "Windows 11 (24H2) and Windows Server 2025 - Cumulative Update (64-bit)",
       "publisher": "Microsoft",
       "source": "pdq"
     },
     {
       "id": "pkg_6f114d8a90c1440fbaa",
-      "latestPackageVersionId": "pkgver_ecaa5715ea7b4b75b65",
-      "latestVersion": "20250114",
+      "latestPackageVersionId": "pkgver_63d9c504e5e24cd0a94",
+      "latestVersion": "20250408",
       "name": "Windows 11 24H2 and Server 2025 - .NET Framework 4.8.1 Cumulative Update",
       "publisher": "Microsoft",
       "source": "pdq"
     },
     {
       "id": "pkg_a5230842e81c45e082a",
-      "latestPackageVersionId": "pkgver_b6dcd14a2e9a4f1093d",
-      "latestVersion": "20250114",
+      "latestPackageVersionId": "pkgver_6dc778b8f37545a1a3f",
+      "latestVersion": "20250408",
       "name": "Windows 11 (22H2/23H2) - .NET Framework 4.8.1 Cumulative Update",
       "publisher": "Microsoft",
       "source": "pdq"
     },
     {
       "id": "pkg_254c11bb3b8b4eaaa41",
-      "latestPackageVersionId": "pkgver_3b4762b5212141afb15",
-      "latestVersion": "20250311",
+      "latestPackageVersionId": "pkgver_48067d22d1dd4e379fb",
+      "latestVersion": "20250408",
       "name": "Windows 11 (22H2/23H2) - Cumulative Update (64-bit)",
       "publisher": "Microsoft",
       "source": "pdq"
@@ -162,40 +234,48 @@
     },
     {
       "id": "pkg_7969ab61d1154a35bd6",
-      "latestPackageVersionId": "pkgver_55be749745ce447c978",
-      "latestVersion": "20250114",
+      "latestPackageVersionId": "pkgver_904e012879f54ac0b43",
+      "latestVersion": "20250408",
       "name": "Windows 10 (21H2/22H2) - .NET Framework 4.8 Cumulative Update (64-bit)",
       "publisher": "Microsoft",
       "source": "pdq"
     },
     {
       "id": "pkg_d377a4bf7e2c40659c7",
-      "latestPackageVersionId": "pkgver_5666fe1228574463a61",
-      "latestVersion": "20250114",
+      "latestPackageVersionId": "pkgver_319894bfdee24ddb8be",
+      "latestVersion": "20250408",
       "name": "Windows 10 (21H2/22H2) - .NET Framework 4.8 Cumulative Update (32-bit)",
       "publisher": "Microsoft",
       "source": "pdq"
     },
     {
       "id": "pkg_9c314a9eb5bd4b6baf4",
-      "latestPackageVersionId": "pkgver_c61026e66dc541688c1",
-      "latestVersion": "20250114",
+      "latestPackageVersionId": "pkgver_e5f6c6bbfce14c8292a",
+      "latestVersion": "20250408",
       "name": "Windows 10 (21H2/22H2) - .NET Framework 4.8.1 Cumulative Update (64-bit)",
       "publisher": "Microsoft",
       "source": "pdq"
     },
     {
       "id": "pkg_fae9501ee91d48f495b",
-      "latestPackageVersionId": "pkgver_06cc6c02b6cc4e3b946",
-      "latestVersion": "20250114",
+      "latestPackageVersionId": "pkgver_4ba4eb4e3e9d47c69d3",
+      "latestVersion": "20250408",
       "name": "Windows 10 (21H2/22H2) - .NET Framework 4.8.1 Cumulative Update (32-bit)",
       "publisher": "Microsoft",
       "source": "pdq"
     },
     {
+      "id": "pkg_9702ce9b4ea14009b67",
+      "latestPackageVersionId": "pkgver_4e2d447d8d69485ba88",
+      "latestVersion": "20250408",
+      "name": "Windows 10 (21H2/22H2) - Cumulative Update (64-bit) (2)",
+      "publisher": "PDQ Solutions",
+      "source": "custom"
+    },
+    {
       "id": "pkg_ec7670c20157432eaab",
-      "latestPackageVersionId": "pkgver_d59c3e6335204035872",
-      "latestVersion": "20250311",
+      "latestPackageVersionId": "pkgver_981bdd11eeef4e00a0f",
+      "latestVersion": "20250408",
       "name": "Windows 10 (21H2/22H2) - Cumulative Update (64-bit)",
       "publisher": "Microsoft",
       "source": "pdq"
@@ -226,16 +306,16 @@
     },
     {
       "id": "pkg_bb09ce5d0e3b4f53bba",
-      "latestPackageVersionId": "pkgver_84ce5140b20a4952936",
-      "latestVersion": "20250311",
+      "latestPackageVersionId": "pkgver_20d3be7f3f7744ee99b",
+      "latestVersion": "20250408",
       "name": "Windows 10 (1809) and Windows Server 2019 - Cumulative Update (64-bit)",
       "publisher": "Microsoft",
       "source": "pdq"
     },
     {
       "id": "pkg_c5697136a1a143f8a8a",
-      "latestPackageVersionId": "pkgver_509bda863fd34c70840",
-      "latestVersion": "20250311",
+      "latestPackageVersionId": "pkgver_3a7c0c7472d342a6b32",
+      "latestVersion": "20250408",
       "name": "Windows 10 (1607) and Windows Server 2016 - Cumulative Update (64-bit)",
       "publisher": "Microsoft",
       "source": "pdq"
@@ -258,11 +338,75 @@
     },
     {
       "id": "pkg_dda64f3fd7b749afb65",
-      "latestPackageVersionId": "pkgver_f12dcec7d629445aae4",
-      "latestVersion": "45.3.1.32057",
+      "latestPackageVersionId": "pkgver_5499c0c00aa24a0da94",
+      "latestVersion": "45.4.0.32158",
       "name": "Webex",
       "publisher": "Cisco",
       "source": "pdq"
+    },
+    {
+      "id": "pkg_4a7bde7b08b94b2fae9",
+      "latestPackageVersionId": "pkgver_e0ee31279bd546f1a97",
+      "latestVersion": "0",
+      "name": "Wayne - Wireshark",
+      "publisher": "PDQ Solutions",
+      "source": "custom"
+    },
+    {
+      "id": "pkg_60bd6cdaa9e04871b99",
+      "latestPackageVersionId": "pkgver_84d87a0cd8ca4c639b5",
+      "latestVersion": "0",
+      "name": "Wayne - Delete pending reboot reg",
+      "publisher": "PDQ Solutions",
+      "source": "custom"
+    },
+    {
+      "id": "pkg_99731b351dfb4211818",
+      "latestPackageVersionId": "pkgver_f2d7c3c5fddb49e5a19",
+      "latestVersion": "0",
+      "name": "Wayne - Copy desktop file",
+      "publisher": "PDQ Solutions",
+      "source": "custom"
+    },
+    {
+      "id": "pkg_062849a150054be9a94",
+      "latestPackageVersionId": "pkgver_b1737db5723d45e2aa9",
+      "latestVersion": "0",
+      "name": "Wayne - 572902 - Test PS copy command",
+      "publisher": "PDQ Solutions",
+      "source": "custom"
+    },
+    {
+      "id": "pkg_e1537585c9624249911",
+      "latestPackageVersionId": "pkgver_4311c64e970b4fa696c",
+      "latestVersion": "0",
+      "name": "Wayne - 572303 - Delete desktop shortcuts",
+      "publisher": "PDQ Solutions",
+      "source": "custom"
+    },
+    {
+      "id": "pkg_31098efcd6574a5d8ff",
+      "latestPackageVersionId": "pkgver_a61c6faa5bfe4e4c876",
+      "latestVersion": "0",
+      "name": "Wayne - 572169 - Test file copy step",
+      "publisher": "PDQ Solutions",
+      "source": "custom"
+    },
+    {
+      "id": "pkg_c5c108bbbb284a12b44",
+      "latestPackageVersionId": "pkgver_a18d15451fca4a1cb68",
+      "latestVersion": "0",
+      "name": "Wayne - 545909 - PS command for WSL",
+      "publisher": "PDQ Solutions",
+      "source": "custom"
+    },
+    {
+      "id": "pkg_89fbf7f603184255864",
+      "latestPackageVersionId": "pkgver_33702e2f9cb84da8b01",
+      "latestVersion": "0",
+      "name": "Wayne - 544589 - Install Windows fonts",
+      "publisher": "PDQ Solutions",
+      "source": "custom"
     },
     {
       "id": "pkg_31f7c1e4f2284e2f862",
@@ -282,27 +426,35 @@
     },
     {
       "id": "pkg_cd8d2ecf2c6043ed837",
-      "latestPackageVersionId": "pkgver_37bac6cf38fc4859bd0",
-      "latestVersion": "1.99.0",
+      "latestPackageVersionId": "pkgver_f8312d5fc9d74a4a9de",
+      "latestVersion": "1.99.3",
       "name": "Visual Studio Code",
       "publisher": "Microsoft",
       "source": "pdq"
     },
     {
       "id": "pkg_f669fc82624342219cf",
-      "latestPackageVersionId": "pkgver_a23b1d93c3f148bdb64",
-      "latestVersion": "17.13.5",
+      "latestPackageVersionId": "pkgver_d3d5e7f19b2746d5928",
+      "latestVersion": "17.13.6",
       "name": "Visual Studio 2022 - Community Edition",
       "publisher": "Microsoft",
       "source": "pdq"
     },
     {
       "id": "pkg_52767283682240f5b8c",
-      "latestPackageVersionId": "pkgver_249f05d1476c4742821",
-      "latestVersion": "7.1.6",
+      "latestPackageVersionId": "pkgver_cdf5300e3aee437d9f9",
+      "latestVersion": "7.1.8",
       "name": "VirtualBox",
       "publisher": "Oracle",
       "source": "pdq"
+    },
+    {
+      "id": "pkg_aed3c778441d4876a14",
+      "latestPackageVersionId": "pkgver_1eb84f1518454466a46",
+      "latestVersion": "0",
+      "name": "Update Richo Driver",
+      "publisher": "PDQ Solutions",
+      "source": "custom"
     },
     {
       "id": "pkg_0f8c8e12d5264d0b8bc",
@@ -327,6 +479,14 @@
       "name": "Uninstall Zoom Client",
       "publisher": "PDQ.com",
       "source": "pdq"
+    },
+    {
+      "id": "pkg_242470a02a84475698d",
+      "latestPackageVersionId": "pkgver_e1fa240580fd4a52af1",
+      "latestVersion": "0",
+      "name": "Uninstall Webex (Webex Removal Tool)",
+      "publisher": "PDQ Solutions",
+      "source": "custom"
     },
     {
       "id": "pkg_27f383696f9e49c4871",
@@ -361,6 +521,14 @@
       "source": "pdq"
     },
     {
+      "id": "pkg_65baa88eee874347a40",
+      "latestPackageVersionId": "pkgver_bc074cd1a55846fa9e4",
+      "latestVersion": "0",
+      "name": "Uninstall Thunderbird",
+      "publisher": "PDQ Solutions",
+      "source": "custom"
+    },
+    {
       "id": "pkg_2638660231ed469a892",
       "latestPackageVersionId": "pkgver_0e4afa2cd30b4dee9de",
       "latestVersion": "2.1",
@@ -375,6 +543,14 @@
       "name": "Uninstall Tableau Reader",
       "publisher": "PDQ.com",
       "source": "pdq"
+    },
+    {
+      "id": "pkg_3b7ffa084062449c9ee",
+      "latestPackageVersionId": "pkgver_c9ecef527fac463ca01",
+      "latestVersion": "0",
+      "name": "Uninstall Sysmon",
+      "publisher": "PDQ Solutions",
+      "source": "custom"
     },
     {
       "id": "pkg_0dd383bc23954d6a8d2",
@@ -537,6 +713,14 @@
       "source": "pdq"
     },
     {
+      "id": "pkg_f638b1544f3e4c55906",
+      "latestPackageVersionId": "pkgver_91abafb312f24a3dbb1",
+      "latestVersion": "0",
+      "name": "Uninstall Firefox",
+      "publisher": "PDQ Solutions",
+      "source": "custom"
+    },
+    {
       "id": "pkg_90cb6001734c461185f",
       "latestPackageVersionId": "pkgver_80824486154e4cff921",
       "latestVersion": "1.0.0",
@@ -609,6 +793,14 @@
       "source": "pdq"
     },
     {
+      "id": "pkg_57050de171ab4fba8d0",
+      "latestPackageVersionId": "pkgver_95db9f5150ea483cb22",
+      "latestVersion": "1.0.0",
+      "name": "Uninstall Draw.io (2)",
+      "publisher": "PDQ Solutions",
+      "source": "custom"
+    },
+    {
       "id": "pkg_13988b9db9d34cd2aef",
       "latestPackageVersionId": "pkgver_fd0b6c410ff646e7bda",
       "latestVersion": "1.0.0",
@@ -665,6 +857,14 @@
       "source": "pdq"
     },
     {
+      "id": "pkg_51a58896b8384ddaae0",
+      "latestPackageVersionId": "pkgver_2d14406202704b169ed",
+      "latestVersion": "0",
+      "name": "UltraVNC - Set PW",
+      "publisher": "PDQ Solutions",
+      "source": "custom"
+    },
+    {
       "id": "pkg_651e69c61f814fa989f",
       "latestPackageVersionId": "pkgver_393f2f0dfae74c798d4",
       "latestVersion": "1.4.3.6",
@@ -673,12 +873,148 @@
       "source": "pdq"
     },
     {
+      "id": "pkg_39abd83231074581a9e",
+      "latestPackageVersionId": "pkgver_0f2f56141429423e875",
+      "latestVersion": "0",
+      "name": "Ultra File Search",
+      "publisher": "PDQ Solutions",
+      "source": "custom"
+    },
+    {
+      "id": "pkg_f61ff91b2a434f40a91",
+      "latestPackageVersionId": "pkgver_42a0ce305dec4f3eb39",
+      "latestVersion": "0",
+      "name": "UltraFileSearch",
+      "publisher": "PDQ Solutions",
+      "source": "custom"
+    },
+    {
+      "id": "pkg_79e5f54d90a040c98a7",
+      "latestPackageVersionId": "pkgver_6c14efcd54a3491f8c2",
+      "latestVersion": "0",
+      "name": "Too Many Steps | HOU-2366",
+      "publisher": "PDQ Solutions",
+      "source": "custom"
+    },
+    {
+      "id": "pkg_07dc3077da9c493ea82",
+      "latestPackageVersionId": "pkgver_73f2df2cd6184d62a6c",
+      "latestVersion": "2.8.85",
+      "name": "TightVNC Viewer Only (2)",
+      "publisher": "PDQ Solutions",
+      "source": "custom"
+    },
+    {
+      "id": "pkg_7374113acf48488ca5e",
+      "latestPackageVersionId": "pkgver_634dd0554b29471fb51",
+      "latestVersion": "2.8.85",
+      "name": "TightVNC Viewer Only",
+      "publisher": "PDQ Solutions",
+      "source": "custom"
+    },
+    {
       "id": "pkg_54c74b0ed64a4a5ea0c",
       "latestPackageVersionId": "pkgver_fe79bcf17a9e41f6917",
       "latestVersion": "2.8.85",
       "name": "TightVNC",
       "publisher": "GlavSoft LLC",
       "source": "pdq"
+    },
+    {
+      "id": "pkg_b8e82f7ea8dd4a22820",
+      "latestPackageVersionId": "pkgver_11d67e4d57134a24bfe",
+      "latestVersion": "0",
+      "name": "Test Script",
+      "publisher": "PDQ Solutions",
+      "source": "custom"
+    },
+    {
+      "id": "pkg_64f263a169de4c999c1",
+      "latestPackageVersionId": "pkgver_b3ddf20c00cd4e59ac7",
+      "latestVersion": "0",
+      "name": "Test programdata",
+      "publisher": "PDQ Solutions",
+      "source": "custom"
+    },
+    {
+      "id": "pkg_e232c1709c664a778b9",
+      "latestPackageVersionId": "pkgver_55d287723b6c423e991",
+      "latestVersion": "0",
+      "name": "Test - Package with 30 steps",
+      "publisher": "PDQ Solutions",
+      "source": "custom"
+    },
+    {
+      "id": "pkg_74fdc7189ea846c3a7a",
+      "latestPackageVersionId": "pkgver_ca847fefe3a14b0399d",
+      "latestVersion": "0",
+      "name": "Test Package - MR ",
+      "publisher": "PDQ Solutions",
+      "source": "custom"
+    },
+    {
+      "id": "pkg_6ade26f0016d4a3585e",
+      "latestPackageVersionId": "pkgver_81c812f5700e49dab49",
+      "latestVersion": "0",
+      "name": "Test Package - Migrate",
+      "publisher": "PDQ Migrate",
+      "source": "custom"
+    },
+    {
+      "id": "pkg_4a43e6ef3da449c9a4e",
+      "latestPackageVersionId": "pkgver_0246d1a70e2f4aad80f",
+      "latestVersion": "0",
+      "name": "Test M Teams running",
+      "publisher": "PDQ Solutions",
+      "source": "custom"
+    },
+    {
+      "id": "pkg_892ab039a6c34387912",
+      "latestPackageVersionId": "pkgver_374f53ec3d734f5587c",
+      "latestVersion": "1",
+      "name": "Test Liviu Adobe Cloud",
+      "publisher": "PDQ Solutions",
+      "source": "custom"
+    },
+    {
+      "id": "pkg_ea9ef60d33ac43f6af6",
+      "latestPackageVersionId": "pkgver_eadde58c1e8643f3aaa",
+      "latestVersion": "0",
+      "name": "Test LH Nested",
+      "publisher": "PDQ Solutions",
+      "source": "custom"
+    },
+    {
+      "id": "pkg_bc4c67ca449344d2bac",
+      "latestPackageVersionId": "pkgver_f89d5caaa35f46c2ad2",
+      "latestVersion": "0",
+      "name": "Test continue",
+      "publisher": "PDQ Solutions",
+      "source": "custom"
+    },
+    {
+      "id": "pkg_56ac1a140a534e06915",
+      "latestPackageVersionId": "pkgver_a2fb9c18600f4159bad",
+      "latestVersion": "0",
+      "name": "Test - Adobe Illustrator (Install Step)",
+      "publisher": "PDQ Solutions",
+      "source": "custom"
+    },
+    {
+      "id": "pkg_94063c6ed72b4db284c",
+      "latestPackageVersionId": "pkgver_05925d1f6fd7436293a",
+      "latestVersion": "0",
+      "name": "Test - Adobe Illustrator",
+      "publisher": "PDQ Solutions",
+      "source": "custom"
+    },
+    {
+      "id": "pkg_b25b02bd5c10456f849",
+      "latestPackageVersionId": "pkgver_a3c297a15c9046cd9da",
+      "latestVersion": "0",
+      "name": "Test add UNC to local intranet (MR)",
+      "publisher": "PDQ Solutions",
+      "source": "custom"
     },
     {
       "id": "pkg_9902b6fa737648c8a49",
@@ -703,6 +1039,14 @@
       "name": "TeamViewer 15",
       "publisher": "TeamViewer",
       "source": "pdq"
+    },
+    {
+      "id": "pkg_6567d265830544d292e",
+      "latestPackageVersionId": "pkgver_337cac383e7049caac5",
+      "latestVersion": "0",
+      "name": "Task ID Example",
+      "publisher": "PDQ Solutions",
+      "source": "custom"
     },
     {
       "id": "pkg_89ae915252584272b31",
@@ -738,8 +1082,8 @@
     },
     {
       "id": "pkg_d56cde5f281f4a6fa5d",
-      "latestPackageVersionId": "pkgver_5cd7828426534b7dbbd",
-      "latestVersion": "20.2.30.0",
+      "latestPackageVersionId": "pkgver_3963192ee41340afa44",
+      "latestVersion": "20.2.37.0",
       "name": "SQL Server Management Studio",
       "publisher": "Microsoft",
       "source": "pdq"
@@ -753,9 +1097,17 @@
       "source": "pdq"
     },
     {
+      "id": "pkg_9ca5adc5a59c432e9ba",
+      "latestPackageVersionId": "pkgver_88972ee90ed44e29823",
+      "latestVersion": "4.39.88",
+      "name": "Slack (3)",
+      "publisher": "PDQ Solutions",
+      "source": "custom"
+    },
+    {
       "id": "pkg_8b6732e84ce9488bbdf",
-      "latestPackageVersionId": "pkgver_63816699cd7f44c6947",
-      "latestVersion": "4.43.51",
+      "latestPackageVersionId": "pkgver_e0b4d97b49f54e858af",
+      "latestVersion": "4.43.52",
       "name": "Slack",
       "publisher": "Slack Technologies",
       "source": "pdq"
@@ -769,6 +1121,14 @@
       "source": "pdq"
     },
     {
+      "id": "pkg_0127a17766d24787940",
+      "latestPackageVersionId": "pkgver_c916a4c0980e4e32947",
+      "latestVersion": "0",
+      "name": "Shutdown",
+      "publisher": "PDQ Solutions",
+      "source": "custom"
+    },
+    {
       "id": "pkg_03fdfa3214a94f29891",
       "latestPackageVersionId": "pkgver_94bd31b87ddf470a830",
       "latestVersion": "25.3.29",
@@ -777,12 +1137,28 @@
       "source": "pdq"
     },
     {
+      "id": "pkg_8c7f18a21d1548208e0",
+      "latestPackageVersionId": "pkgver_7b8226fc460d4f0eba4",
+      "latestVersion": "0",
+      "name": "Shortcut Test",
+      "publisher": "PDQ Solutions",
+      "source": "custom"
+    },
+    {
       "id": "pkg_e09e97965a98403a80a",
       "latestPackageVersionId": "pkgver_fa47b54f291245f0a99",
       "latestVersion": "17.0.0",
       "name": "ShareX",
       "publisher": "ShareX Team",
       "source": "pdq"
+    },
+    {
+      "id": "pkg_f662854600d144c2a0d",
+      "latestPackageVersionId": "pkgver_7264d6a70f284dfd805",
+      "latestVersion": "0",
+      "name": "SFC /scannow (MR)",
+      "publisher": "PDQ Solutions",
+      "source": "custom"
     },
     {
       "id": "pkg_5bf0cacf8d104097bf9",
@@ -801,6 +1177,54 @@
       "source": "pdq"
     },
     {
+      "id": "pkg_15eaca1184f14f2e96f",
+      "latestPackageVersionId": "pkgver_19e4f8348832493cab3",
+      "latestVersion": "1",
+      "name": "RISA 3D",
+      "publisher": "PDQ Solutions",
+      "source": "custom"
+    },
+    {
+      "id": "pkg_762af57f4f4a4594be6",
+      "latestPackageVersionId": "pkgver_c5a17f0aaf4a4127a19",
+      "latestVersion": "0",
+      "name": "RingCentral (MSI version) Glenn test",
+      "publisher": "PDQ Solutions",
+      "source": "custom"
+    },
+    {
+      "id": "pkg_1d12e1d9113a4a04944",
+      "latestPackageVersionId": "pkgver_feb378f20e49402ea63",
+      "latestVersion": "0",
+      "name": "Revit2025 w/ 7-Zip",
+      "publisher": "PDQ Solutions",
+      "source": "custom"
+    },
+    {
+      "id": "pkg_07a5cb10504c4d5c8db",
+      "latestPackageVersionId": "pkgver_c4f4c43ea7164e2182e",
+      "latestVersion": "0",
+      "name": "Revit2025 (install file download only)",
+      "publisher": "PDQ Solutions",
+      "source": "custom"
+    },
+    {
+      "id": "pkg_08974342e8424a039c4",
+      "latestPackageVersionId": "pkgver_b488dbc60d9b43ee86d",
+      "latestVersion": "0",
+      "name": "Revit2025.1",
+      "publisher": "PDQ Solutions",
+      "source": "custom"
+    },
+    {
+      "id": "pkg_420594a86dd14cbd9bd",
+      "latestPackageVersionId": "pkgver_96e81b71237a45d1a65",
+      "latestVersion": "0",
+      "name": "Revit2025",
+      "publisher": "PDQ Solutions",
+      "source": "custom"
+    },
+    {
       "id": "pkg_2fea1569957f4ace959",
       "latestPackageVersionId": "pkgver_8ebf392e51ea49c7aa2",
       "latestVersion": "4.8.4072.0",
@@ -809,12 +1233,108 @@
       "source": "pdq"
     },
     {
+      "id": "pkg_df780dc0698d4f99b4c",
+      "latestPackageVersionId": "pkgver_7f656b0bdca1407c9b9",
+      "latestVersion": "0",
+      "name": "Rename device test",
+      "publisher": "PDQ Solutions",
+      "source": "custom"
+    },
+    {
+      "id": "pkg_6184950588ec4741829",
+      "latestPackageVersionId": "pkgver_520a61d322c14ccabc6",
+      "latestVersion": "0",
+      "name": "Remote Wipe - Do Not Use Unless You Wanna Remote Wipe Something",
+      "publisher": "PDQ Solutions",
+      "source": "custom"
+    },
+    {
       "id": "pkg_30dd613b81ed4797b5e",
-      "latestPackageVersionId": "pkgver_13db5021d2554c3f871",
-      "latestVersion": "1.2.6074.0",
+      "latestPackageVersionId": "pkgver_e59e1b2af0dc456caed",
+      "latestVersion": "1.2.6186.0",
       "name": "Remote Desktop (Azure)",
       "publisher": "Microsoft",
       "source": "pdq"
+    },
+    {
+      "id": "pkg_ba3efa13601b4969b69",
+      "latestPackageVersionId": "pkgver_53b290802f8f4359a42",
+      "latestVersion": "0",
+      "name": "reg testtt",
+      "publisher": "PDQ Solutions",
+      "source": "custom"
+    },
+    {
+      "id": "pkg_12c4e1568f214988a90",
+      "latestPackageVersionId": "pkgver_05b5f7301ca040c28f1",
+      "latestVersion": "19.1.3",
+      "name": "reg key test (MR)",
+      "publisher": "PDQ Solutions",
+      "source": "custom"
+    },
+    {
+      "id": "pkg_2de360d09cc54f6eaa6",
+      "latestPackageVersionId": "pkgver_5a8c995cf2044a1884a",
+      "latestVersion": "1",
+      "name": "Rebuild WMI Repository",
+      "publisher": "PDQ Solutions",
+      "source": "custom"
+    },
+    {
+      "id": "pkg_d74f816676e04dc8b27",
+      "latestPackageVersionId": "pkgver_e2263b28f28f4a69bc7",
+      "latestVersion": "0",
+      "name": "Reboot with User Prompt",
+      "publisher": "PDQ Solutions",
+      "source": "custom"
+    },
+    {
+      "id": "pkg_8997d5851f1b481085a",
+      "latestPackageVersionId": "pkgver_89ace17d17254f9cb33",
+      "latestVersion": "0",
+      "name": "Reboot with recurring popup",
+      "publisher": "PDQ Solutions",
+      "source": "custom"
+    },
+    {
+      "id": "pkg_16364968703b433ebcf",
+      "latestPackageVersionId": "pkgver_31f37d17c3594f938d7",
+      "latestVersion": "0",
+      "name": "Reboot with prompt to delay",
+      "publisher": "PDQ Solutions",
+      "source": "custom"
+    },
+    {
+      "id": "pkg_41983bc9b65c4a77b80",
+      "latestPackageVersionId": "pkgver_fa9b077612744692ab5",
+      "latestVersion": "0",
+      "name": "Reboot in 60 Seconds",
+      "publisher": "PDQ Solutions",
+      "source": "custom"
+    },
+    {
+      "id": "pkg_92f69db63c4d49bcb44",
+      "latestPackageVersionId": "pkgver_00e35f7bfee64549b69",
+      "latestVersion": "0",
+      "name": "Reboot - 90 seconds (2)",
+      "publisher": "PDQ Solutions",
+      "source": "custom"
+    },
+    {
+      "id": "pkg_c0fad5fca4354f12894",
+      "latestPackageVersionId": "pkgver_95beabf6ff49404a931",
+      "latestVersion": "0",
+      "name": "Reboot - 90 seconds",
+      "publisher": "PDQ Solutions",
+      "source": "custom"
+    },
+    {
+      "id": "pkg_1272d07821ed4149ad3",
+      "latestPackageVersionId": "pkgver_149b981c7e354266a1e",
+      "latestVersion": "0",
+      "name": "Reboot",
+      "publisher": "PDQ Solutions",
+      "source": "custom"
     },
     {
       "id": "pkg_32f5e571884e4663a17",
@@ -823,6 +1343,22 @@
       "name": "QGIS",
       "publisher": "QGIS Development Team",
       "source": "pdq"
+    },
+    {
+      "id": "pkg_cba4e71370b04199a23",
+      "latestPackageVersionId": "pkgver_f581bcbd9db24ca3ac3",
+      "latestVersion": "0",
+      "name": "QAStudio",
+      "publisher": "PDQ Solutions",
+      "source": "custom"
+    },
+    {
+      "id": "pkg_828b7623197a4eda90c",
+      "latestPackageVersionId": "pkgver_d898803ee15e4d26b6b",
+      "latestVersion": "0.78",
+      "name": "PuTTY (64-bit) (2)",
+      "publisher": "PDQ Solutions",
+      "source": "custom"
     },
     {
       "id": "pkg_598f2094eeb140a8975",
@@ -839,6 +1375,14 @@
       "name": "PuTTY",
       "publisher": "Simon Tatham",
       "source": "pdq"
+    },
+    {
+      "id": "pkg_f98c00091e024769b78",
+      "latestPackageVersionId": "pkgver_76a20f3736b34642910",
+      "latestVersion": "2.2.0.3",
+      "name": "PSWindowsUpdate - Install Specific Microsoft KB - REPURPOSED",
+      "publisher": "PDQ Solutions",
+      "source": "custom"
     },
     {
       "id": "pkg_14d3718835004afd932",
@@ -865,6 +1409,14 @@
       "source": "pdq"
     },
     {
+      "id": "pkg_efb9f244e401408da40",
+      "latestPackageVersionId": "pkgver_56a07a1f815349898b3",
+      "latestVersion": "2.2.1.4",
+      "name": "PSWindowsUpdate - Install Applicable Critical and Security Updates from Microsoft (2)",
+      "publisher": "PDQ Solutions",
+      "source": "custom"
+    },
+    {
       "id": "pkg_89e6e28620844a53a77",
       "latestPackageVersionId": "pkgver_11440669837f4b89a04",
       "latestVersion": "2.2.1.5",
@@ -881,6 +1433,22 @@
       "source": "pdq"
     },
     {
+      "id": "pkg_74ed832ca5b04b3cba8",
+      "latestPackageVersionId": "pkgver_9acb6279110b4a24b77",
+      "latestVersion": "0",
+      "name": "PSWindowsUpdate - Hide Update",
+      "publisher": "PDQ Solutions",
+      "source": "custom"
+    },
+    {
+      "id": "pkg_57c9051a2b7f485f9be",
+      "latestPackageVersionId": "pkgver_259481706dc04b7796d",
+      "latestVersion": "0.1",
+      "name": "PSWindowsUpdate - Get All Applicable Updates from Microsoft (Audit Only) - MRood",
+      "publisher": "PDQ Solutions",
+      "source": "custom"
+    },
+    {
       "id": "pkg_e99a30b65ac64ea7993",
       "latestPackageVersionId": "pkgver_3d096561d24b4bfeaf7",
       "latestVersion": "2.2.1.5.1",
@@ -889,9 +1457,25 @@
       "source": "pdq"
     },
     {
+      "id": "pkg_1ef99cefb9ad421dbf4",
+      "latestPackageVersionId": "pkgver_041f51e2f5804b2aaac",
+      "latestVersion": "0",
+      "name": "Prompt Users",
+      "publisher": "PDQ Solutions",
+      "source": "custom"
+    },
+    {
+      "id": "pkg_28f77ef6f6154b3aa0a",
+      "latestPackageVersionId": "pkgver_2617af2cf9554d2ab35",
+      "latestVersion": "0",
+      "name": "PromptUsers",
+      "publisher": "PDQ Migrate",
+      "source": "custom"
+    },
+    {
       "id": "pkg_c4ad1e15172f48d38a9",
-      "latestPackageVersionId": "pkgver_7c68ac07d7d24b318dd",
-      "latestVersion": "0.90.0",
+      "latestPackageVersionId": "pkgver_6caca458a0c8447a8e9",
+      "latestVersion": "0.90.1",
       "name": "PowerToys",
       "publisher": "Microsoft",
       "source": "pdq"
@@ -906,19 +1490,27 @@
     },
     {
       "id": "pkg_3dc958f93fc847c3a1c",
-      "latestPackageVersionId": "pkgver_5c22d1dd0afe4220868",
-      "latestVersion": "2.141.1451.0",
+      "latestPackageVersionId": "pkgver_9c6787eafe80469b89f",
+      "latestVersion": "2.141.1754.0",
       "name": "Power BI Desktop",
       "publisher": "Microsoft",
       "source": "pdq"
     },
     {
       "id": "pkg_12f5b17948c54e2a892",
-      "latestPackageVersionId": "pkgver_b2ca115ae4884ec3876",
-      "latestVersion": "2.54.188.25066",
+      "latestPackageVersionId": "pkgver_3fe125ec6e5044f0847",
+      "latestVersion": "2.55.158.25087",
       "name": "Power Automate Desktop",
       "publisher": "Microsoft",
       "source": "pdq"
+    },
+    {
+      "id": "pkg_5922f73dc0d94f10894",
+      "latestPackageVersionId": "pkgver_f733b6f055c0494d9e2",
+      "latestVersion": "0",
+      "name": "Ping fail",
+      "publisher": "PDQ Solutions",
+      "source": "custom"
     },
     {
       "id": "pkg_59f46dee873a4b01a00",
@@ -930,11 +1522,43 @@
     },
     {
       "id": "pkg_48098a56af774d15a68",
-      "latestPackageVersionId": "pkgver_094d8db768ce49e78a1",
-      "latestVersion": "10.3.0",
+      "latestPackageVersionId": "pkgver_080712fab5e74eb0aca",
+      "latestVersion": "10.4.0",
       "name": "PeaZip",
       "publisher": "Giorgio Tani",
       "source": "pdq"
+    },
+    {
+      "id": "pkg_b0e5d9e98228441a8c5",
+      "latestPackageVersionId": "pkgver_394e1eea43c34b209a3",
+      "latestVersion": "1.0.0",
+      "name": "PDQ Uninstall It All (Zoom Workplace)",
+      "publisher": "PDQ Solutions",
+      "source": "custom"
+    },
+    {
+      "id": "pkg_3f1206653a574bb0be1",
+      "latestPackageVersionId": "pkgver_000a6d88b8754a42a97",
+      "latestVersion": "1.0.0",
+      "name": "PDQ Uninstall It All (Duplicated from Prebuilt)",
+      "publisher": "PDQ Solutions",
+      "source": "custom"
+    },
+    {
+      "id": "pkg_82825bdc782a48249b0",
+      "latestPackageVersionId": "pkgver_d49bfad10e824ed2aca",
+      "latestVersion": "1.0.0",
+      "name": "PDQ Uninstall It All (9)",
+      "publisher": "PDQ Solutions",
+      "source": "custom"
+    },
+    {
+      "id": "pkg_f8ec0b9521794cdb8e3",
+      "latestPackageVersionId": "pkgver_2ee6f83bc99b45f6b30",
+      "latestVersion": "1.0.0",
+      "name": "PDQ Uninstall It All - 7-zip",
+      "publisher": "PDQ Solutions",
+      "source": "custom"
     },
     {
       "id": "pkg_9c5aabc84cc343168a2",
@@ -961,12 +1585,28 @@
       "source": "pdq"
     },
     {
+      "id": "pkg_0fc653636728490b8c7",
+      "latestPackageVersionId": "pkgver_f5f5868ef2794e4b99c",
+      "latestVersion": "6.2.0",
+      "name": "PDQ Detect Agent",
+      "publisher": "PDQ Solutions",
+      "source": "custom"
+    },
+    {
       "id": "pkg_dd491c1630094584a18",
       "latestPackageVersionId": "pkgver_81b660ad54f94410a17",
       "latestVersion": "19.4.56.0",
       "name": "PDQ Deploy",
       "publisher": "PDQ.com",
       "source": "pdq"
+    },
+    {
+      "id": "pkg_58300ea037cb4d0a8f6",
+      "latestPackageVersionId": "pkgver_6d24c3c04a514f599fd",
+      "latestVersion": "5.6.6.0",
+      "name": "PDQ Connect Agent ",
+      "publisher": "PDQ Solutions",
+      "source": "custom"
     },
     {
       "id": "pkg_1b73f921b45c4a27b77",
@@ -994,8 +1634,8 @@
     },
     {
       "id": "pkg_78afb481ade5497dbd8",
-      "latestPackageVersionId": "pkgver_fc7949f993d341639a9",
-      "latestVersion": "11.24.0",
+      "latestPackageVersionId": "pkgver_a0a2797fba5347f9a5a",
+      "latestVersion": "11.25.0",
       "name": "PDF24 Creator",
       "publisher": "PDF24.org",
       "source": "pdq"
@@ -1010,8 +1650,8 @@
     },
     {
       "id": "pkg_7208205ff00f47799d4",
-      "latestPackageVersionId": "pkgver_190a6e056af642bdb8f",
-      "latestVersion": "117.0.5408.93",
+      "latestPackageVersionId": "pkgver_45e4ffb4fbbd4681a48",
+      "latestVersion": "118.0.5461.41",
       "name": "Opera",
       "publisher": "Opera Software ASA",
       "source": "pdq"
@@ -1023,6 +1663,14 @@
       "name": "OpenShot",
       "publisher": "OpenShot",
       "source": "pdq"
+    },
+    {
+      "id": "pkg_c251ca25ee654abd993",
+      "latestPackageVersionId": "pkgver_f0a6de8e3f1147c78f3",
+      "latestVersion": "0",
+      "name": "Office Example",
+      "publisher": "PDQ Solutions",
+      "source": "custom"
     },
     {
       "id": "pkg_c5530bad12714c5f83d",
@@ -1049,6 +1697,62 @@
       "source": "pdq"
     },
     {
+      "id": "pkg_abbc7bdf2eeb46c7842",
+      "latestPackageVersionId": "pkgver_8d0b4c37131e45a88d9",
+      "latestVersion": "0",
+      "name": "New package - Notify Test",
+      "publisher": "PDQ Solutions",
+      "source": "custom"
+    },
+    {
+      "id": "pkg_afc946eec428440692b",
+      "latestPackageVersionId": "pkgver_0826a43ebc8b41dca37",
+      "latestVersion": "0",
+      "name": "New package98347609843",
+      "publisher": "PDQ Solutions",
+      "source": "custom"
+    },
+    {
+      "id": "pkg_77ea71360ad94f6b9e9",
+      "latestPackageVersionId": "pkgver_db263b456b2d4804828",
+      "latestVersion": "0",
+      "name": "New package 43563546",
+      "publisher": "PDQ Solutions",
+      "source": "custom"
+    },
+    {
+      "id": "pkg_b278c87d3bca4cb2bfb",
+      "latestPackageVersionId": "pkgver_a84811f1ecf7436c8e9",
+      "latestVersion": "0",
+      "name": "New package",
+      "publisher": "PDQ Solutions",
+      "source": "custom"
+    },
+    {
+      "id": "pkg_7fdc3b2d9e6a4e9eb8f",
+      "latestPackageVersionId": "pkgver_9b75b265a7574e47b55",
+      "latestVersion": "0",
+      "name": "net use",
+      "publisher": "PDQ Solutions",
+      "source": "custom"
+    },
+    {
+      "id": "pkg_ff9a716a94244d6b9df",
+      "latestPackageVersionId": "pkgver_197a4edf988a4b1da51",
+      "latestVersion": "0",
+      "name": ".NET 3.5 (Modified for Connect)",
+      "publisher": "PDQ Solutions",
+      "source": "custom"
+    },
+    {
+      "id": "pkg_7af7f057e3e94d6d80b",
+      "latestPackageVersionId": "pkgver_44e5740676e34214806",
+      "latestVersion": "0",
+      "name": "Nested Tested",
+      "publisher": "PDQ Solutions",
+      "source": "custom"
+    },
+    {
       "id": "pkg_8afe005f69de41ea893",
       "latestPackageVersionId": "pkgver_8ed20041b7c44694bba",
       "latestVersion": "1.76.20",
@@ -1058,32 +1762,32 @@
     },
     {
       "id": "pkg_b2f90f7820bb4b619f0",
-      "latestPackageVersionId": "pkgver_a9f652953cbf4c499de",
-      "latestVersion": "128.9.1",
+      "latestPackageVersionId": "pkgver_3d710085b21a40f298a",
+      "latestVersion": "128.9.2",
       "name": "Mozilla Thunderbird",
       "publisher": "Mozilla",
       "source": "pdq"
     },
     {
       "id": "pkg_c46cae0daed84b83a44",
-      "latestPackageVersionId": "pkgver_13c902dbb0e74764a80",
-      "latestVersion": "137.0.1",
+      "latestPackageVersionId": "pkgver_ad2b9db1698545a885e",
+      "latestVersion": "137.0.2",
       "name": "Mozilla Firefox (Spanish)",
       "publisher": "Mozilla",
       "source": "pdq"
     },
     {
       "id": "pkg_05e0a76e8f364d71a20",
-      "latestPackageVersionId": "pkgver_58ba507a080542b0ae1",
-      "latestVersion": "137.0.1",
+      "latestPackageVersionId": "pkgver_4fd1343b24264600873",
+      "latestVersion": "137.0.2",
       "name": "Mozilla Firefox (German)",
       "publisher": "Mozilla",
       "source": "pdq"
     },
     {
       "id": "pkg_480f5b737f7444f79de",
-      "latestPackageVersionId": "pkgver_914e95d956f9478c84d",
-      "latestVersion": "137.0.1",
+      "latestPackageVersionId": "pkgver_90c57b8ca43941eead9",
+      "latestVersion": "137.0.2",
       "name": "Mozilla Firefox (French)",
       "publisher": "Mozilla",
       "source": "pdq"
@@ -1130,19 +1834,107 @@
     },
     {
       "id": "pkg_e13fd53a9f354367b88",
-      "latestPackageVersionId": "pkgver_35fec225349a4b08a5e",
-      "latestVersion": "137.0.1",
+      "latestPackageVersionId": "pkgver_b5fb5e35e5944340956",
+      "latestVersion": "137.0.2",
       "name": "Mozilla Firefox (Dutch)",
       "publisher": "Mozilla",
       "source": "pdq"
     },
     {
+      "id": "pkg_570c54713d024e27827",
+      "latestPackageVersionId": "pkgver_c3985372fd544b71af5",
+      "latestVersion": "0",
+      "name": "Mozilla Firefox (64-bit) (Enable Updates)",
+      "publisher": "PDQ Solutions",
+      "source": "custom"
+    },
+    {
       "id": "pkg_a7e9a4dcbb414696b64",
-      "latestPackageVersionId": "pkgver_2c54c43b3f1c49ad966",
-      "latestVersion": "137.0.1",
+      "latestPackageVersionId": "pkgver_2342c69352804d7091c",
+      "latestVersion": "137.0.2",
       "name": "Mozilla Firefox",
       "publisher": "Mozilla",
       "source": "pdq"
+    },
+    {
+      "id": "pkg_bb0b52d4d7ef4d7f923",
+      "latestPackageVersionId": "pkgver_9845e419245d417da2f",
+      "latestVersion": "0",
+      "name": "Mimecast Outlook Plugin (x64)",
+      "publisher": "PDQ Solutions",
+      "source": "custom"
+    },
+    {
+      "id": "pkg_ada6ebec91a649589e6",
+      "latestPackageVersionId": "pkgver_2c2c022c28af41909f1",
+      "latestVersion": "0",
+      "name": "MikeR_SmartDeploy_UninstallOld_installNew",
+      "publisher": "PDQ Solutions",
+      "source": "custom"
+    },
+    {
+      "id": "pkg_eef8602b24c0443fae4",
+      "latestPackageVersionId": "pkgver_2ca3dd98264c41e9bd3",
+      "latestVersion": "1.0.0",
+      "name": "MikeR_SmartDeploy Client Uninstall",
+      "publisher": "PDQ Solutions",
+      "source": "custom"
+    },
+    {
+      "id": "pkg_d8c67a6e334946d7a49",
+      "latestPackageVersionId": "pkgver_77128a70ab004d43a96",
+      "latestVersion": "3.0.2000",
+      "name": "MikeR_SmartDeployClient3.0.2",
+      "publisher": "PDQ Solutions",
+      "source": "custom"
+    },
+    {
+      "id": "pkg_927072c905ea4112b70",
+      "latestPackageVersionId": "pkgver_728052a21a174845b51",
+      "latestVersion": "3.0.1095",
+      "name": "MikeR_SmartDeployClient",
+      "publisher": "PDQ Solutions",
+      "source": "custom"
+    },
+    {
+      "id": "pkg_f6fe0641c3b04799a55",
+      "latestPackageVersionId": "pkgver_e705bbaea3dd45aca71",
+      "latestVersion": "0",
+      "name": "MikeR_RenameComputer",
+      "publisher": "PDQ Solutions",
+      "source": "custom"
+    },
+    {
+      "id": "pkg_482adaf51b5f4162947",
+      "latestPackageVersionId": "pkgver_0eda46f5cca440268de",
+      "latestVersion": "0",
+      "name": "MikeR_PSTools",
+      "publisher": "PDQ Solutions",
+      "source": "custom"
+    },
+    {
+      "id": "pkg_21b82b1c14ef4df6836",
+      "latestPackageVersionId": "pkgver_14ada0dfd3b445d1852",
+      "latestVersion": "0",
+      "name": "MikeR_Disable_WU_Service",
+      "publisher": "PDQ Solutions",
+      "source": "custom"
+    },
+    {
+      "id": "pkg_898867f597144b6797b",
+      "latestPackageVersionId": "pkgver_4c108bf821b549f9a6c",
+      "latestVersion": "0",
+      "name": "MikeR_Convert SmartDeploy Client To Cloud",
+      "publisher": "PDQ Solutions",
+      "source": "custom"
+    },
+    {
+      "id": "pkg_afc91e40028d4f49b93",
+      "latestPackageVersionId": "pkgver_9dfce88962144876a40",
+      "latestVersion": "0",
+      "name": "MikeR_AddLabUser",
+      "publisher": "PDQ Solutions",
+      "source": "custom"
     },
     {
       "id": "pkg_ec0aabece0c84501b21",
@@ -1153,12 +1945,36 @@
       "source": "pdq"
     },
     {
+      "id": "pkg_107c2e3c77fd4e468a4",
+      "latestPackageVersionId": "pkgver_53905f1f4ac942f8b72",
+      "latestVersion": "0",
+      "name": "Microsoft Visual C++ 2013 Runtime (no longer supported)",
+      "publisher": "PDQ Solutions",
+      "source": "custom"
+    },
+    {
+      "id": "pkg_6bc2c477738e4462927",
+      "latestPackageVersionId": "pkgver_5358484c857a4606b0f",
+      "latestVersion": "25044.2208.3471.2155",
+      "name": "Microsoft Teams (MR Old test delete me)",
+      "publisher": "PDQ Solutions",
+      "source": "custom"
+    },
+    {
       "id": "pkg_e5428e578ef748d394f",
       "latestPackageVersionId": "pkgver_62fda5825929460b9a7",
       "latestVersion": "1.8.0.8769",
       "name": "Microsoft Teams (Classic)",
       "publisher": "Microsoft",
       "source": "pdq"
+    },
+    {
+      "id": "pkg_68506983b16a4f5e8ad",
+      "latestPackageVersionId": "pkgver_f7e9b384d2264e28a23",
+      "latestVersion": "25060.205.3499.6849",
+      "name": "Microsoft Teams Check if running",
+      "publisher": "PDQ Solutions",
+      "source": "custom"
     },
     {
       "id": "pkg_43a03208bc9c436e8cf",
@@ -1175,6 +1991,22 @@
       "name": "Microsoft Remote Desktop Connection Manager (RDCMan)",
       "publisher": "Microsoft",
       "source": "pdq"
+    },
+    {
+      "id": "pkg_52eb53f06b56473ea64",
+      "latestPackageVersionId": "pkgver_d062fc17d5e44712968",
+      "latestVersion": "0",
+      "name": "Microsoft Office 365 (64-bit) - OneNote Only",
+      "publisher": "PDQ Solutions",
+      "source": "custom"
+    },
+    {
+      "id": "pkg_1f44537c4826432d942",
+      "latestPackageVersionId": "pkgver_9ff424c9c5ff477c942",
+      "latestVersion": "0",
+      "name": "Microsoft Office 365 (64-bit) + Delete setup",
+      "publisher": "PDQ Solutions",
+      "source": "custom"
     },
     {
       "id": "pkg_978a8c7a9cf14172bed",
@@ -1210,16 +2042,16 @@
     },
     {
       "id": "pkg_f063df1452914a0b800",
-      "latestPackageVersionId": "pkgver_af7b18fcf89644c0b25",
-      "latestVersion": "9.0.3",
+      "latestPackageVersionId": "pkgver_71070d4e90c5436eb1e",
+      "latestVersion": "9.0.4",
       "name": "Microsoft .NET Desktop Runtime 9",
       "publisher": "Microsoft",
       "source": "pdq"
     },
     {
       "id": "pkg_67008f40aee44a08b7b",
-      "latestPackageVersionId": "pkgver_d1c9869dbe6c47c889c",
-      "latestVersion": "8.0.14",
+      "latestPackageVersionId": "pkgver_e766c89caaa146db9c6",
+      "latestVersion": "8.0.15",
       "name": "Microsoft .NET Desktop Runtime 8",
       "publisher": "Microsoft",
       "source": "pdq"
@@ -1242,24 +2074,24 @@
     },
     {
       "id": "pkg_4a570a6dd179449382c",
-      "latestPackageVersionId": "pkgver_77a5982b2f7446cbb52",
-      "latestVersion": "135.0.3179.54",
+      "latestPackageVersionId": "pkgver_1d20a21ef964485089f",
+      "latestVersion": "135.0.3179.73",
       "name": "Microsoft Edge for Business",
       "publisher": "Microsoft",
       "source": "pdq"
     },
     {
       "id": "pkg_9c771f7bc9194c8d9fa",
-      "latestPackageVersionId": "pkgver_afc032cd998d4fc3891",
-      "latestVersion": "9.0.3",
+      "latestPackageVersionId": "pkgver_e555c9e3316f467ba9a",
+      "latestVersion": "9.0.4",
       "name": "Microsoft ASP.NET Core 9 Runtime",
       "publisher": "Microsoft",
       "source": "pdq"
     },
     {
       "id": "pkg_9503d9b58f5d4ce987b",
-      "latestPackageVersionId": "pkgver_8b35d2a7e4b14ab1af7",
-      "latestVersion": "8.0.14",
+      "latestPackageVersionId": "pkgver_a99079e76fc44cb6a8f",
+      "latestVersion": "8.0.15",
       "name": "Microsoft ASP.NET Core 8 Runtime",
       "publisher": "Microsoft",
       "source": "pdq"
@@ -1273,6 +2105,94 @@
       "source": "pdq"
     },
     {
+      "id": "pkg_3493c0361d20494abbb",
+      "latestPackageVersionId": "pkgver_ba30c835dc7a4dfcae9",
+      "latestVersion": "0",
+      "name": "Microsoft 365 Apps for Business",
+      "publisher": "PDQ Migrate",
+      "source": "custom"
+    },
+    {
+      "id": "pkg_430b4bee00b4438d918",
+      "latestPackageVersionId": "pkgver_cd0469b272ea4ae6bf4",
+      "latestVersion": "0",
+      "name": "Manual Remote Desktop Install",
+      "publisher": "PDQ Solutions",
+      "source": "custom"
+    },
+    {
+      "id": "pkg_bccc48e9d1264865aa1",
+      "latestPackageVersionId": "pkgver_dde8bda2e42545fab28",
+      "latestVersion": "0",
+      "name": "Liviu TV Host",
+      "publisher": "PDQ Solutions",
+      "source": "custom"
+    },
+    {
+      "id": "pkg_3316cefe21a64dd0ac8",
+      "latestPackageVersionId": "pkgver_b74553bfef7f48ad983",
+      "latestVersion": "0",
+      "name": "Liviu Test Reboot user input",
+      "publisher": "PDQ Solutions",
+      "source": "custom"
+    },
+    {
+      "id": "pkg_b875cc7494f04f6ba5f",
+      "latestPackageVersionId": "pkgver_61830a01052744228cb",
+      "latestVersion": "0",
+      "name": "Liviu's Test PS delete shortcut",
+      "publisher": "PDQ Solutions",
+      "source": "custom"
+    },
+    {
+      "id": "pkg_f6bc852f0eea413f8c8",
+      "latestPackageVersionId": "pkgver_87e709c3b831402fb69",
+      "latestVersion": "0",
+      "name": "Liviu's Test Package",
+      "publisher": "PDQ Solutions",
+      "source": "custom"
+    },
+    {
+      "id": "pkg_98b93aeedf7e41cd9e3",
+      "latestPackageVersionId": "pkgver_9514c32b5da84f0c93d",
+      "latestVersion": "1",
+      "name": "Liviu's Package Test",
+      "publisher": "PDQ Solutions",
+      "source": "custom"
+    },
+    {
+      "id": "pkg_5472077964964eea80a",
+      "latestPackageVersionId": "pkgver_745c9ba792514142b38",
+      "latestVersion": "0",
+      "name": "Liviu registry Key",
+      "publisher": "PDQ Solutions",
+      "source": "custom"
+    },
+    {
+      "id": "pkg_a79d1266164143d7866",
+      "latestPackageVersionId": "pkgver_d4fba1665c0849a7914",
+      "latestVersion": "0",
+      "name": "Liviu Reboot Test",
+      "publisher": "PDQ Solutions",
+      "source": "custom"
+    },
+    {
+      "id": "pkg_98a0ebedfcc6470487d",
+      "latestPackageVersionId": "pkgver_4a0f51703ae748f494f",
+      "latestVersion": "0",
+      "name": "Liviu PS1 Script",
+      "publisher": "PDQ Solutions",
+      "source": "custom"
+    },
+    {
+      "id": "pkg_59c9db52730a4962bda",
+      "latestPackageVersionId": "pkgver_1b250b6bebc14c1c90f",
+      "latestVersion": "0",
+      "name": "Liviu Nested Package",
+      "publisher": "PDQ Solutions",
+      "source": "custom"
+    },
+    {
       "id": "pkg_e0e0e1cd693843cbbe4",
       "latestPackageVersionId": "pkgver_dc20930aabd847c2906",
       "latestVersion": "25.2.2",
@@ -1281,12 +2201,28 @@
       "source": "pdq"
     },
     {
+      "id": "pkg_8a58431bfb7b42e4b11",
+      "latestPackageVersionId": "pkgver_52304e10a94d4bc89c6",
+      "latestVersion": "0",
+      "name": "Large Package Test - Sid",
+      "publisher": "PDQ Solutions",
+      "source": "custom"
+    },
+    {
       "id": "pkg_0e3d7f7fcb634dc984c",
       "latestPackageVersionId": "pkgver_c405d9e70de34692ba3",
       "latestVersion": "5.2.9",
       "name": "Krita",
       "publisher": "Krita Foundation",
       "source": "pdq"
+    },
+    {
+      "id": "pkg_da3ff3784457456fb86",
+      "latestPackageVersionId": "pkgver_96f4c87b10d7481ca85",
+      "latestVersion": "0",
+      "name": "Kofax",
+      "publisher": "PDQ Solutions",
+      "source": "custom"
     },
     {
       "id": "pkg_442348834dcd422091c",
@@ -1306,19 +2242,35 @@
     },
     {
       "id": "pkg_82748c5df3d74c97bfe",
-      "latestPackageVersionId": "pkgver_e921ff92f8724bdfb5e",
-      "latestVersion": "8.0.4410.7",
+      "latestPackageVersionId": "pkgver_f7a33322c349434fb54",
+      "latestVersion": "8.0.4510.10",
       "name": "Java 8 (64-bit)",
       "publisher": "Oracle",
       "source": "pdq"
     },
     {
       "id": "pkg_e4965925ac084464b4d",
-      "latestPackageVersionId": "pkgver_590598aa68b94c359f7",
-      "latestVersion": "8.0.4410.7",
+      "latestPackageVersionId": "pkgver_eb1bd07fa44e48e88e0",
+      "latestVersion": "8.0.4510.10",
       "name": "Java 8",
       "publisher": "Oracle",
       "source": "pdq"
+    },
+    {
+      "id": "pkg_dd7b19430d9c496eab2",
+      "latestPackageVersionId": "pkgver_c2395377650443ca8d1",
+      "latestVersion": "12.13.7.1",
+      "name": "iTunes (No Bonjour) Liviu Test",
+      "publisher": "PDQ Solutions",
+      "source": "custom"
+    },
+    {
+      "id": "pkg_35bdb3e06323415cbc0",
+      "latestPackageVersionId": "pkgver_02bb1bab25274e6ca88",
+      "latestVersion": "12.13.7.1",
+      "name": "iTunes (No Bonjour) (2)",
+      "publisher": "PDQ Solutions",
+      "source": "custom"
     },
     {
       "id": "pkg_0aa16ad7e9c64ebc905",
@@ -1353,11 +2305,43 @@
       "source": "pdq"
     },
     {
+      "id": "pkg_c16dc53038cd4b6eaa6",
+      "latestPackageVersionId": "pkgver_aa05fa8dc0684497b7b",
+      "latestVersion": "0",
+      "name": "Install Windows 10 22H2 Feature Update",
+      "publisher": "PDQ Solutions",
+      "source": "custom"
+    },
+    {
+      "id": "pkg_52280b74f5574771810",
+      "latestPackageVersionId": "pkgver_2ab9a69dd40c45d69e6",
+      "latestVersion": "0",
+      "name": "Install SyncBackFree",
+      "publisher": "PDQ Solutions",
+      "source": "custom"
+    },
+    {
+      "id": "pkg_f1da58ef5c554535b92",
+      "latestPackageVersionId": "pkgver_0b9256888d5a45ea8ea",
+      "latestVersion": "0",
+      "name": "Install New Teams",
+      "publisher": "PDQ Solutions",
+      "source": "custom"
+    },
+    {
       "id": "pkg_9f05de30044c4154baf",
       "latestPackageVersionId": "pkgver_c4a3f5e97f2446f6ac8",
       "latestVersion": "1.4",
       "name": "Inkscape",
       "publisher": "Inkscape",
+      "source": "pdq"
+    },
+    {
+      "id": "pkg_7458d1190c484bb7bc7",
+      "latestPackageVersionId": "pkgver_d367004a43934daea70",
+      "latestVersion": "9.2.0.1208",
+      "name": "ImageGlass",
+      "publisher": "Duong Dieu Phap",
       "source": "pdq"
     },
     {
@@ -1369,12 +2353,44 @@
       "source": "pdq"
     },
     {
+      "id": "pkg_669049e58d9a48608c5",
+      "latestPackageVersionId": "pkgver_17614e321a7845c7a5a",
+      "latestVersion": "1.2.10.6.1",
+      "name": "Greenshot (2)",
+      "publisher": "PDQ Solutions",
+      "source": "custom"
+    },
+    {
+      "id": "pkg_ec2e5474d1ce42d2901",
+      "latestPackageVersionId": "pkgver_4bf9bf8e256a4db28cc",
+      "latestVersion": "0",
+      "name": "Greenshot",
+      "publisher": "PDQ Migrate",
+      "source": "custom"
+    },
+    {
+      "id": "pkg_baedd6825c71451abaf",
+      "latestPackageVersionId": "pkgver_23a40e024dda4d0fbaf",
+      "latestVersion": "0",
+      "name": "GPUpdate /Force",
+      "publisher": "PDQ Solutions",
+      "source": "custom"
+    },
+    {
       "id": "pkg_9b80d409416944ca9c7",
       "latestPackageVersionId": "pkgver_7c9435a0aa3c4e23900",
       "latestVersion": "7.3.6",
       "name": "Google Earth Pro",
       "publisher": "Google",
       "source": "pdq"
+    },
+    {
+      "id": "pkg_077b65ccae7d46efae2",
+      "latestPackageVersionId": "pkgver_02ba1280f41f46a9870",
+      "latestVersion": "100.0.2.0",
+      "name": "Google Drive (6)",
+      "publisher": "PDQ Solutions",
+      "source": "custom"
     },
     {
       "id": "pkg_ef0c41c0888f4259a5b",
@@ -1386,11 +2402,27 @@
     },
     {
       "id": "pkg_e08d2207867a49b0b7b",
-      "latestPackageVersionId": "pkgver_7e50a33d52d647e3bf8",
-      "latestVersion": "135.0.7049.42",
+      "latestPackageVersionId": "pkgver_ea5b211c35ea4718b90",
+      "latestVersion": "135.0.7049.96",
       "name": "Google Chrome Enterprise",
       "publisher": "Google",
       "source": "pdq"
+    },
+    {
+      "id": "pkg_cd4975b27832437a934",
+      "latestPackageVersionId": "pkgver_e870db625929475c8a5",
+      "latestVersion": "0",
+      "name": "Google Chrome (Enable Automatic Updates)",
+      "publisher": "PDQ Solutions",
+      "source": "custom"
+    },
+    {
+      "id": "pkg_42c38233c2264afa8e0",
+      "latestPackageVersionId": "pkgver_a31465d763384818862",
+      "latestVersion": "0",
+      "name": "GlennTestPackage",
+      "publisher": "PDQ Solutions",
+      "source": "custom"
     },
     {
       "id": "pkg_8fafe76b22db48a5a2a",
@@ -1407,6 +2439,38 @@
       "name": "GIMP",
       "publisher": "The GIMP Team",
       "source": "pdq"
+    },
+    {
+      "id": "pkg_0f79730e2a294fe2bb0",
+      "latestPackageVersionId": "pkgver_01cd6222186e42418ef",
+      "latestVersion": "0",
+      "name": "GFortran81 (cmd install)",
+      "publisher": "PDQ Solutions",
+      "source": "custom"
+    },
+    {
+      "id": "pkg_22f906b68e14446dbd2",
+      "latestPackageVersionId": "pkgver_1c5c727ae3df4e1ca28",
+      "latestVersion": "0",
+      "name": "GFortran46",
+      "publisher": "PDQ Solutions",
+      "source": "custom"
+    },
+    {
+      "id": "pkg_5964ce90d6d64cc7800",
+      "latestPackageVersionId": "pkgver_b1f75c874309428bb3b",
+      "latestVersion": "0",
+      "name": "Get User Profile Size",
+      "publisher": "PDQ Solutions",
+      "source": "custom"
+    },
+    {
+      "id": "pkg_95109adc6c5c4a3ea81",
+      "latestPackageVersionId": "pkgver_015a777711114dcb80c",
+      "latestVersion": "0",
+      "name": "Get Mapped Network Drives",
+      "publisher": "PDQ Solutions",
+      "source": "custom"
     },
     {
       "id": "pkg_6c5549fb5e334aed93d",
@@ -1433,6 +2497,14 @@
       "source": "pdq"
     },
     {
+      "id": "pkg_9ddf9bc1581649559b9",
+      "latestPackageVersionId": "pkgver_f950de9952eb4647931",
+      "latestVersion": "0",
+      "name": "Foxit Editor Pro",
+      "publisher": "PDQ Solutions",
+      "source": "custom"
+    },
+    {
       "id": "pkg_1fb5f5542d5d4bbca0f",
       "latestPackageVersionId": "pkgver_a6194c052de3468a88f",
       "latestVersion": "2.24.3",
@@ -1442,19 +2514,67 @@
     },
     {
       "id": "pkg_0996ed42cfd84890a16",
-      "latestPackageVersionId": "pkgver_4a176b0a279f4471a15",
-      "latestVersion": "3.68.1",
+      "latestPackageVersionId": "pkgver_77ed390344a84c4da42",
+      "latestVersion": "3.69.0",
       "name": "FileZilla",
       "publisher": "FileZilla Project",
       "source": "pdq"
     },
     {
+      "id": "pkg_6e0cf1c1d79e487a86f",
+      "latestPackageVersionId": "pkgver_c038504bb6864aae8b1",
+      "latestVersion": "1",
+      "name": "File Copy Version 1",
+      "publisher": "PDQ Solutions",
+      "source": "custom"
+    },
+    {
+      "id": "pkg_b7cc356e43a44af3bcd",
+      "latestPackageVersionId": "pkgver_c9fb16e6b9ce4a1fa3e",
+      "latestVersion": "0",
+      "name": "File Copy %programw6432%",
+      "publisher": "PDQ Solutions",
+      "source": "custom"
+    },
+    {
+      "id": "pkg_08b16ca6882146fc927",
+      "latestPackageVersionId": "pkgver_74bf97272dd5471d8b8",
+      "latestVersion": "0",
+      "name": "Falcon Sensor Test",
+      "publisher": "PDQ Solutions",
+      "source": "custom"
+    },
+    {
+      "id": "pkg_6ef1af5bb9ae4ebfb2c",
+      "latestPackageVersionId": "pkgver_35612db50003449c9ab",
+      "latestVersion": "0",
+      "name": "EX: Reboot Message",
+      "publisher": "PDQ Solutions",
+      "source": "custom"
+    },
+    {
+      "id": "pkg_ade19f6954b64b78959",
+      "latestPackageVersionId": "pkgver_8a2460c9141b4d99a4b",
+      "latestVersion": "0",
+      "name": "Example - Include Entire Directory",
+      "publisher": "PDQ Solutions",
+      "source": "custom"
+    },
+    {
       "id": "pkg_ceb4988ff6b7463da1d",
-      "latestPackageVersionId": "pkgver_d3eae4ab0f0b4f4d808",
-      "latestVersion": "10.134.4",
+      "latestPackageVersionId": "pkgver_b5c467c826f842e593c",
+      "latestVersion": "10.135.4",
       "name": "Evernote",
       "publisher": "Evernote",
       "source": "pdq"
+    },
+    {
+      "id": "pkg_6e5404e3356e49c58ee",
+      "latestPackageVersionId": "pkgver_b0cb8d09bd1d45a6858",
+      "latestVersion": "0",
+      "name": "Enable .NET 3.5",
+      "publisher": "PDQ Solutions",
+      "source": "custom"
     },
     {
       "id": "pkg_b3ad5bb8798e4aeda21",
@@ -1498,8 +2618,8 @@
     },
     {
       "id": "pkg_54a6717248994e9aacf",
-      "latestPackageVersionId": "pkgver_d8d9709dc2ea4228b03",
-      "latestVersion": "17.0.14.7",
+      "latestPackageVersionId": "pkgver_41b6a957fdf847bbb59",
+      "latestVersion": "17.0.15.6",
       "name": "Eclipse Temurin JRE 17 64-bit",
       "publisher": "Eclipse Temurin",
       "source": "pdq"
@@ -1546,8 +2666,8 @@
     },
     {
       "id": "pkg_dce4947704224bd49b4",
-      "latestPackageVersionId": "pkgver_6a811769732244e98d5",
-      "latestVersion": "17.0.14.7",
+      "latestPackageVersionId": "pkgver_f7906b16e998461abc1",
+      "latestVersion": "17.0.15.6",
       "name": "Eclipse Temurin JDK 17 64-bit",
       "publisher": "Eclipse Temurin",
       "source": "pdq"
@@ -1562,8 +2682,8 @@
     },
     {
       "id": "pkg_e017977ddca14ef9b0f",
-      "latestPackageVersionId": "pkgver_ed5556b33c5b4c64bb5",
-      "latestVersion": "221.4.5365",
+      "latestPackageVersionId": "pkgver_4abcfaafeb524b89b15",
+      "latestVersion": "222.4.5042",
       "name": "Dropbox",
       "publisher": "Dropbox",
       "source": "pdq"
@@ -1575,6 +2695,102 @@
       "name": "Draw.io",
       "publisher": "JGraph Ltd",
       "source": "pdq"
+    },
+    {
+      "id": "pkg_8a6f2bf8a8a44f19939",
+      "latestPackageVersionId": "pkgver_366bb0b09c5a4a4cb17",
+      "latestVersion": "4.40.0",
+      "name": "Docker Desktop",
+      "publisher": "Docker Inc.",
+      "source": "pdq"
+    },
+    {
+      "id": "pkg_80ac8e71c1c64e65877",
+      "latestPackageVersionId": "pkgver_72468a3a9e5843fe9ff",
+      "latestVersion": "0",
+      "name": "DISM Restore Health (MR)",
+      "publisher": "PDQ Solutions",
+      "source": "custom"
+    },
+    {
+      "id": "pkg_43d725b152b64fd2afa",
+      "latestPackageVersionId": "pkgver_100cfb1bd46342c1b83",
+      "latestVersion": "0",
+      "name": "Disable mDNS",
+      "publisher": "PDQ Solutions",
+      "source": "custom"
+    },
+    {
+      "id": "pkg_a0e98a65b55845dfa99",
+      "latestPackageVersionId": "pkgver_0f366fcc01a143a2a42",
+      "latestVersion": "0",
+      "name": "Dir",
+      "publisher": "PDQ Solutions",
+      "source": "custom"
+    },
+    {
+      "id": "pkg_b775ed6b55b9401c9c9",
+      "latestPackageVersionId": "pkgver_c622e8d0929340999b4",
+      "latestVersion": "1.0",
+      "name": "Devon_FileMakerTest",
+      "publisher": "PDQ Solutions",
+      "source": "custom"
+    },
+    {
+      "id": "pkg_061d81816fd94d4ca87",
+      "latestPackageVersionId": "pkgver_8663aa8ede354f51b72",
+      "latestVersion": "1.0",
+      "name": "DevonAVTest",
+      "publisher": "PDQ Solutions",
+      "source": "custom"
+    },
+    {
+      "id": "pkg_8a06a09256984ac0b05",
+      "latestPackageVersionId": "pkgver_30de5e8b513942429d1",
+      "latestVersion": "0",
+      "name": "Deploy Registry Key (Users Hive)",
+      "publisher": "PDQ Solutions",
+      "source": "custom"
+    },
+    {
+      "id": "pkg_54fdb5b6fbac436f908",
+      "latestPackageVersionId": "pkgver_e5eabc7a9ba9427db19",
+      "latestVersion": "0",
+      "name": "Deploy Registry Key (.Reg file as Logged on User)",
+      "publisher": "PDQ Solutions",
+      "source": "custom"
+    },
+    {
+      "id": "pkg_e69235e157be402d9b5",
+      "latestPackageVersionId": "pkgver_bafaec41922b4eb8b55",
+      "latestVersion": "0",
+      "name": "Deploy Registry Key - PowerShell - Logged on User",
+      "publisher": "PDQ Solutions",
+      "source": "custom"
+    },
+    {
+      "id": "pkg_fa01b6acdc5f488a970",
+      "latestPackageVersionId": "pkgver_d4f4f47567dd4a15a10",
+      "latestVersion": "0",
+      "name": "Deploy Registry Key",
+      "publisher": "PDQ Solutions",
+      "source": "custom"
+    },
+    {
+      "id": "pkg_5781ea4bc6af4bd4806",
+      "latestPackageVersionId": "pkgver_963ef41fcbf84d25b79",
+      "latestVersion": "0",
+      "name": "Dell Command 5.4.0",
+      "publisher": "PDQ Solutions",
+      "source": "custom"
+    },
+    {
+      "id": "pkg_1627d9c71df140f2ab3",
+      "latestPackageVersionId": "pkgver_5cd2aceef1fc4c80a72",
+      "latestVersion": "0",
+      "name": "Deez Test",
+      "publisher": "PDQ Solutions",
+      "source": "custom"
     },
     {
       "id": "pkg_a6b5a64655b94c66bca",
@@ -1593,12 +2809,540 @@
       "source": "pdq"
     },
     {
+      "id": "pkg_4f361b599a1f425c975",
+      "latestPackageVersionId": "pkgver_5078cbde06c945af806",
+      "latestVersion": "9.1.3.42945",
+      "name": "Cyberduck",
+      "publisher": "iterate GmbH",
+      "source": "pdq"
+    },
+    {
+      "id": "pkg_2289eba146ce4216b03",
+      "latestPackageVersionId": "pkgver_3b070e284a2f4dcf897",
+      "latestVersion": "2.0",
+      "name": "Custom Package",
+      "publisher": "PDQ Solutions",
+      "source": "custom"
+    },
+    {
+      "id": "pkg_8b759fe3d2c645d0967",
+      "latestPackageVersionId": "pkgver_753d60ae00cb4436b95",
+      "latestVersion": "1.0",
+      "name": "Custom package",
+      "publisher": "PDQ Solutions",
+      "source": "custom"
+    },
+    {
+      "id": "pkg_919de8fb380047cb9d4",
+      "latestPackageVersionId": "pkgver_ff0e1b8f9dcc48dd967",
+      "latestVersion": "0",
+      "name": "Custom - Create Connect Logs",
+      "publisher": "PDQ Solutions",
+      "source": "custom"
+    },
+    {
+      "id": "pkg_29f0b01189d84c15a14",
+      "latestPackageVersionId": "pkgver_ba3efc27beda4e5f954",
+      "latestVersion": "0",
+      "name": "Custom - Brave Browser",
+      "publisher": "PDQ Solutions",
+      "source": "custom"
+    },
+    {
+      "id": "pkg_3c63555e4cd14c10b9a",
+      "latestPackageVersionId": "pkgver_447f292ade5b46f3816",
+      "latestVersion": "0",
+      "name": "Custom - Adobe Acrobat Standard x64",
+      "publisher": "PDQ Solutions",
+      "source": "custom"
+    },
+    {
       "id": "pkg_302dd56c4f2b4ddd902",
       "latestPackageVersionId": "pkgver_f2f3d7d77edf4fea956",
       "latestVersion": "8.0.6",
       "name": "CrystalDiskMark",
       "publisher": "Crystal Dew World",
       "source": "pdq"
+    },
+    {
+      "id": "pkg_2e4b3cc71d8e486797a",
+      "latestPackageVersionId": "pkgver_7a53bca5fbd04d98aa3",
+      "latestVersion": "0",
+      "name": "Create Shortcut - PowerShell ",
+      "publisher": "PDQ Solutions",
+      "source": "custom"
+    },
+    {
+      "id": "pkg_a1636f6fa6464b89b35",
+      "latestPackageVersionId": "pkgver_795432fd1d594ce2978",
+      "latestVersion": "0",
+      "name": "Cory - Uninstall Teamviewer",
+      "publisher": "PDQ Solutions",
+      "source": "custom"
+    },
+    {
+      "id": "pkg_63508d4fb1b4463b8e9",
+      "latestPackageVersionId": "pkgver_102d4e85ea2e4c578c3",
+      "latestVersion": "0",
+      "name": "Cory - PS Test Deployment",
+      "publisher": "PDQ Solutions",
+      "source": "custom"
+    },
+    {
+      "id": "pkg_8d928b2533b5405eba1",
+      "latestPackageVersionId": "pkgver_6eb7a7f29e9b4ce7b50",
+      "latestVersion": "0",
+      "name": "Copy Zip and Extract",
+      "publisher": "PDQ Solutions",
+      "source": "custom"
+    },
+    {
+      "id": "pkg_9bbdff6d31e045e9821",
+      "latestPackageVersionId": "pkgver_76ead0b4bb074d72814",
+      "latestVersion": "0",
+      "name": "Copy user context",
+      "publisher": "PDQ Solutions",
+      "source": "custom"
+    },
+    {
+      "id": "pkg_414ddad1199b4dd9b5d",
+      "latestPackageVersionId": "pkgver_f27cbcea01c94b6db2a",
+      "latestVersion": "0",
+      "name": "Copy Illustrator ZIP to PC",
+      "publisher": "PDQ Solutions",
+      "source": "custom"
+    },
+    {
+      "id": "pkg_7c0fe2c96dae45d3909",
+      "latestPackageVersionId": "pkgver_8877181f7273482fa2b",
+      "latestVersion": "0",
+      "name": "Clayton - VBS Script Test",
+      "publisher": "PDQ Solutions",
+      "source": "custom"
+    },
+    {
+      "id": "pkg_e67975c033a748ec8d1",
+      "latestPackageVersionId": "pkgver_4a6d8d3d5fde483ea3b",
+      "latestVersion": "0",
+      "name": "Clayton Test - Zscaler",
+      "publisher": "PDQ Solutions",
+      "source": "custom"
+    },
+    {
+      "id": "pkg_99a68e87699645ee910",
+      "latestPackageVersionId": "pkgver_1b7df959719b43a4a02",
+      "latestVersion": "0",
+      "name": "Clayton Test - Winget Script",
+      "publisher": "PDQ Solutions",
+      "source": "custom"
+    },
+    {
+      "id": "pkg_fa9a78aa509d4e95bdc",
+      "latestPackageVersionId": "pkgver_2e42edb89c964c1c8e8",
+      "latestVersion": "0",
+      "name": "Clayton Test - Windows 11 Upgrade Assistant",
+      "publisher": "PDQ Solutions",
+      "source": "custom"
+    },
+    {
+      "id": "pkg_cbedc8d5a2c34742848",
+      "latestPackageVersionId": "pkgver_0dd7f8d71054442a979",
+      "latestVersion": "0",
+      "name": "Clayton Test - Windows 11 Debloat",
+      "publisher": "PDQ Solutions",
+      "source": "custom"
+    },
+    {
+      "id": "pkg_3c3ed6b35e6a4c95aaf",
+      "latestPackageVersionId": "pkgver_7047fef2f4b04a90b3b",
+      "latestVersion": "0",
+      "name": "Clayton Test - Uninstall Zoom with MSI",
+      "publisher": "PDQ Solutions",
+      "source": "custom"
+    },
+    {
+      "id": "pkg_4f803ea1b971403ca7e",
+      "latestPackageVersionId": "pkgver_7853a8e2a315410d835",
+      "latestVersion": "0",
+      "name": "Clayton Test - Uninstall Bluebeam",
+      "publisher": "PDQ Solutions",
+      "source": "custom"
+    },
+    {
+      "id": "pkg_3cddecc4738c4c6bbf8",
+      "latestPackageVersionId": "pkgver_19a4526bab2e4b0289a",
+      "latestVersion": "0",
+      "name": "Clayton Test - Throwaway Package",
+      "publisher": "PDQ Solutions",
+      "source": "custom"
+    },
+    {
+      "id": "pkg_33235440bf584e44a49",
+      "latestPackageVersionId": "pkgver_a76e7fbdf4634b98af5",
+      "latestVersion": "0",
+      "name": "Clayton Test - Text File Copy",
+      "publisher": "PDQ Solutions",
+      "source": "custom"
+    },
+    {
+      "id": "pkg_a2993f198bba455793e",
+      "latestPackageVersionId": "pkgver_1a46f39e84874f899af",
+      "latestVersion": "0",
+      "name": "Clayton Test - Teamviewer Uninstall",
+      "publisher": "PDQ Solutions",
+      "source": "custom"
+    },
+    {
+      "id": "pkg_4ba9c92eae594054818",
+      "latestPackageVersionId": "pkgver_e2ce3331cf4e4b9dbae",
+      "latestVersion": "0",
+      "name": "Clayton Test - Stamps",
+      "publisher": "PDQ Solutions",
+      "source": "custom"
+    },
+    {
+      "id": "pkg_415b2c1a88a9445d8cc",
+      "latestPackageVersionId": "pkgver_a8216a08e577488e9e0",
+      "latestVersion": "0",
+      "name": "Clayton Test - SQL Express 2019",
+      "publisher": "PDQ Solutions",
+      "source": "custom"
+    },
+    {
+      "id": "pkg_c59464628d064af8af1",
+      "latestPackageVersionId": "pkgver_cceb522dc68c450c89f",
+      "latestVersion": "0",
+      "name": "Clayton Test - Spreadsheet Server Suite",
+      "publisher": "PDQ Solutions",
+      "source": "custom"
+    },
+    {
+      "id": "pkg_8a73e052e7144042ab2",
+      "latestPackageVersionId": "pkgver_0406ccc49ecb40829a7",
+      "latestVersion": "0",
+      "name": "Clayton Test - Shortcut",
+      "publisher": "PDQ Solutions",
+      "source": "custom"
+    },
+    {
+      "id": "pkg_898e545bf89540b59d8",
+      "latestPackageVersionId": "pkgver_7e4579bdf30f4740a03",
+      "latestVersion": "0",
+      "name": "Clayton Test - Set Location",
+      "publisher": "PDQ Solutions",
+      "source": "custom"
+    },
+    {
+      "id": "pkg_8c700da47c3e46e18a6",
+      "latestPackageVersionId": "pkgver_4b54a8eecb584b118f4",
+      "latestVersion": "0",
+      "name": "Clayton Test - RingCentral App",
+      "publisher": "PDQ Solutions",
+      "source": "custom"
+    },
+    {
+      "id": "pkg_ab00a40c2ff64c8b860",
+      "latestPackageVersionId": "pkgver_8f0da8a0e7a7472b95c",
+      "latestVersion": "0",
+      "name": "Clayton Test - RingCentral",
+      "publisher": "PDQ Solutions",
+      "source": "custom"
+    },
+    {
+      "id": "pkg_1c023f92df2645d5b58",
+      "latestPackageVersionId": "pkgver_e5ceebf829284df18c9",
+      "latestVersion": "0",
+      "name": "Clayton Test - Revit",
+      "publisher": "PDQ Solutions",
+      "source": "custom"
+    },
+    {
+      "id": "pkg_1d98d82c15914927b10",
+      "latestPackageVersionId": "pkgver_e90e00f0c55843d4b07",
+      "latestVersion": "1.9",
+      "name": "Clayton Test - Random Script",
+      "publisher": "PDQ Solutions",
+      "source": "custom"
+    },
+    {
+      "id": "pkg_fe327b30b9984f7b87e",
+      "latestPackageVersionId": "pkgver_5ebbd285e7084c25949",
+      "latestVersion": "0",
+      "name": "Clayton Test - Python",
+      "publisher": "PDQ Solutions",
+      "source": "custom"
+    },
+    {
+      "id": "pkg_7fee874c48184a7cb5b",
+      "latestPackageVersionId": "pkgver_878da8e283f5444f8b2",
+      "latestVersion": "0",
+      "name": "Clayton Test - Pro Proctor",
+      "publisher": "PDQ Solutions",
+      "source": "custom"
+    },
+    {
+      "id": "pkg_a52ad4d496384056ac9",
+      "latestPackageVersionId": "pkgver_0de54ea129bb4bbaac3",
+      "latestVersion": "0",
+      "name": "Clayton Test - Prompt User to close apps and repeat after X minutes",
+      "publisher": "PDQ Solutions",
+      "source": "custom"
+    },
+    {
+      "id": "pkg_3d084ff6c2f34af5a98",
+      "latestPackageVersionId": "pkgver_3cbcfb5af9cb455db87",
+      "latestVersion": "0",
+      "name": "Clayton Test - Parent Package",
+      "publisher": "PDQ Solutions",
+      "source": "custom"
+    },
+    {
+      "id": "pkg_ed8e3e3508e8498985b",
+      "latestPackageVersionId": "pkgver_efc31d2eae5e41baa2a",
+      "latestVersion": "0",
+      "name": "Clayton - Test Package",
+      "publisher": "PDQ Solutions",
+      "source": "custom"
+    },
+    {
+      "id": "pkg_c2561ab9817340da9be",
+      "latestPackageVersionId": "pkgver_98ef683a73aa4f2c8e1",
+      "latestVersion": "0",
+      "name": "Clayton Test - Output Log 1",
+      "publisher": "PDQ Solutions",
+      "source": "custom"
+    },
+    {
+      "id": "pkg_4d0df0d77e6248c9b51",
+      "latestPackageVersionId": "pkgver_33a9c666b32b41e3b38",
+      "latestVersion": "0",
+      "name": "Clayton Test - Nonexistent Folder",
+      "publisher": "PDQ Solutions",
+      "source": "custom"
+    },
+    {
+      "id": "pkg_646aecb495324a61b43",
+      "latestPackageVersionId": "pkgver_d9de39f59bbc40f382a",
+      "latestVersion": "0",
+      "name": "Clayton Test - Nested Step - Stop; set status as Error",
+      "publisher": "PDQ Solutions",
+      "source": "custom"
+    },
+    {
+      "id": "pkg_700b7fdb10624f4a84c",
+      "latestPackageVersionId": "pkgver_53bad6f259804aee9d5",
+      "latestVersion": "0",
+      "name": "Clayton Test - Nested Package",
+      "publisher": "PDQ Solutions",
+      "source": "custom"
+    },
+    {
+      "id": "pkg_c20e5a96c8fd42a6843",
+      "latestPackageVersionId": "pkgver_f49708e7a05c4a2590a",
+      "latestVersion": "0",
+      "name": "Clayton Test - Macabacus",
+      "publisher": "PDQ Solutions",
+      "source": "custom"
+    },
+    {
+      "id": "pkg_5203aaf4fcee48418e5",
+      "latestPackageVersionId": "pkgver_285cf3375cad4a799ee",
+      "latestVersion": "0",
+      "name": "Clayton Test - Lock Workstation",
+      "publisher": "PDQ Solutions",
+      "source": "custom"
+    },
+    {
+      "id": "pkg_f1abfe075e364228bf8",
+      "latestPackageVersionId": "pkgver_eb2e4adfb2da47cab3e",
+      "latestVersion": "0",
+      "name": "Clayton Test - Kofax Power PDF 4.1",
+      "publisher": "PDQ Solutions",
+      "source": "custom"
+    },
+    {
+      "id": "pkg_359b063f50e8446d82b",
+      "latestPackageVersionId": "pkgver_ff8a6979628f4094934",
+      "latestVersion": "0",
+      "name": "Clayton Test - InterAction Desktop Applications (2)",
+      "publisher": "PDQ Solutions",
+      "source": "custom"
+    },
+    {
+      "id": "pkg_3dfb1abcaf8d44de8bc",
+      "latestPackageVersionId": "pkgver_be0409622a784f13b3d",
+      "latestVersion": "0",
+      "name": "Clayton Test - InterAction Desktop Applications",
+      "publisher": "PDQ Solutions",
+      "source": "custom"
+    },
+    {
+      "id": "pkg_5226c17c11264282938",
+      "latestPackageVersionId": "pkgver_8758c6b273e945e1a32",
+      "latestVersion": "0",
+      "name": "Clayton Test - Grandcare On Call",
+      "publisher": "PDQ Solutions",
+      "source": "custom"
+    },
+    {
+      "id": "pkg_65523638334e4324832",
+      "latestPackageVersionId": "pkgver_e4b161a400fc4cc08f4",
+      "latestVersion": "0",
+      "name": "Clayton Test - FTR Player",
+      "publisher": "PDQ Solutions",
+      "source": "custom"
+    },
+    {
+      "id": "pkg_d681824779ad4783b46",
+      "latestPackageVersionId": "pkgver_724af1c36d92477da5d",
+      "latestVersion": "0",
+      "name": "Clayton Test - Flash Print 2",
+      "publisher": "PDQ Solutions",
+      "source": "custom"
+    },
+    {
+      "id": "pkg_c325045395ea49b9806",
+      "latestPackageVersionId": "pkgver_d4ccb2a64d21459e9c0",
+      "latestVersion": "0",
+      "name": "Clayton Test - FlashPrint",
+      "publisher": "PDQ Solutions",
+      "source": "custom"
+    },
+    {
+      "id": "pkg_c732a46a10cd4d5d8dc",
+      "latestPackageVersionId": "pkgver_37aeb9f7373a48a794d",
+      "latestVersion": "0",
+      "name": "Clayton Test - File Copy 1",
+      "publisher": "PDQ Solutions",
+      "source": "custom"
+    },
+    {
+      "id": "pkg_3ceb69de91a748b38b3",
+      "latestPackageVersionId": "pkgver_3556241100c2417691e",
+      "latestVersion": "0",
+      "name": "Clayton Test - File Copy",
+      "publisher": "PDQ Solutions",
+      "source": "custom"
+    },
+    {
+      "id": "pkg_0e2b4437e6c04ef5bc7",
+      "latestPackageVersionId": "pkgver_64f33fe623c248149b3",
+      "latestVersion": "0",
+      "name": "Clayton Test - Expand Archive",
+      "publisher": "PDQ Solutions",
+      "source": "custom"
+    },
+    {
+      "id": "pkg_753bdbfb26054bfaac0",
+      "latestPackageVersionId": "pkgver_c0d9820994d8465988c",
+      "latestVersion": "0",
+      "name": "Clayton Test - Enscape 3.5.1",
+      "publisher": "PDQ Solutions",
+      "source": "custom"
+    },
+    {
+      "id": "pkg_d5b646f515a34205bef",
+      "latestPackageVersionId": "pkgver_9241bf61b076497793c",
+      "latestVersion": "0",
+      "name": "Clayton Test - eClinical Works Plugin",
+      "publisher": "PDQ Solutions",
+      "source": "custom"
+    },
+    {
+      "id": "pkg_47f3fca3e6b14eb0b92",
+      "latestPackageVersionId": "pkgver_a8a0a1f59ede4b2d8ea",
+      "latestVersion": "0",
+      "name": "Clayton Test - DocRecord",
+      "publisher": "PDQ Solutions",
+      "source": "custom"
+    },
+    {
+      "id": "pkg_f2ef63593bed4d37b12",
+      "latestPackageVersionId": "pkgver_f7fb1c325f8b4d46818",
+      "latestVersion": "0",
+      "name": "Clayton Test - Datto Endpoint Backup",
+      "publisher": "PDQ Solutions",
+      "source": "custom"
+    },
+    {
+      "id": "pkg_20fcc19719424892b44",
+      "latestPackageVersionId": "pkgver_24008f8da44549cfa57",
+      "latestVersion": "0",
+      "name": "Clayton Test - Bluebook",
+      "publisher": "PDQ Solutions",
+      "source": "custom"
+    },
+    {
+      "id": "pkg_85b7bc920c054444bf1",
+      "latestPackageVersionId": "pkgver_1b2b9a4b7c224a8599f",
+      "latestVersion": "0",
+      "name": "Clayton Test - Autodesk Civil",
+      "publisher": "PDQ Solutions",
+      "source": "custom"
+    },
+    {
+      "id": "pkg_4e6f4061db6d4995ba9",
+      "latestPackageVersionId": "pkgver_9fc7a69938e449f4ab8",
+      "latestVersion": "0",
+      "name": "Clayton Test - ArcGIS Pro",
+      "publisher": "PDQ Solutions",
+      "source": "custom"
+    },
+    {
+      "id": "pkg_41e750dfc7714ab19d0",
+      "latestPackageVersionId": "pkgver_58222bc35d914c33b3c",
+      "latestVersion": "0",
+      "name": "Clayton Test - Affinity Designer 2.0",
+      "publisher": "PDQ Solutions",
+      "source": "custom"
+    },
+    {
+      "id": "pkg_d055154f25784c379d1",
+      "latestPackageVersionId": "pkgver_b0d87c635d7e4a9aa85",
+      "latestVersion": "0",
+      "name": "Clayton Test - Adobe Unified",
+      "publisher": "PDQ Solutions",
+      "source": "custom"
+    },
+    {
+      "id": "pkg_ba712d5a086f4e1eb7c",
+      "latestPackageVersionId": "pkgver_bb41336a09f3458c9fe",
+      "latestVersion": "0",
+      "name": "Clayton Test - Adobe Acrobat Pro",
+      "publisher": "PDQ Solutions",
+      "source": "custom"
+    },
+    {
+      "id": "pkg_0ac8d50c29d84489af4",
+      "latestPackageVersionId": "pkgver_5be4654153884b2ca97",
+      "latestVersion": "0",
+      "name": "Clayton Test - Acuant SDK",
+      "publisher": "PDQ Solutions",
+      "source": "custom"
+    },
+    {
+      "id": "pkg_c9549485a1d2400b92e",
+      "latestPackageVersionId": "pkgver_75a66b6b8ea0491589b",
+      "latestVersion": "0",
+      "name": "Clayton Test - Ablebits",
+      "publisher": "PDQ Solutions",
+      "source": "custom"
+    },
+    {
+      "id": "pkg_9eedf7c1be814811853",
+      "latestPackageVersionId": "pkgver_b4e552253055419480a",
+      "latestVersion": "0",
+      "name": "Clayton - Start-Sleep Test",
+      "publisher": "PDQ Solutions",
+      "source": "custom"
+    },
+    {
+      "id": "pkg_8a946ffd14b74481a2d",
+      "latestPackageVersionId": "pkgver_9f352ffb2fb648c19ef",
+      "latestVersion": "0",
+      "name": "Citrix Workspace LTSR 2402",
+      "publisher": "PDQ Solutions",
+      "source": "custom"
     },
     {
       "id": "pkg_6cdab0b2b1df47658ff",
@@ -1609,20 +3353,124 @@
       "source": "pdq"
     },
     {
+      "id": "pkg_5260ffdb084945bbbff",
+      "latestPackageVersionId": "pkgver_267b46ea661f43528e0",
+      "latestVersion": "0",
+      "name": "Chrome reinstall older",
+      "publisher": "PDQ Solutions",
+      "source": "custom"
+    },
+    {
+      "id": "pkg_2536af8546fb459c818",
+      "latestPackageVersionId": "pkgver_d8fee87b1cb24bea961",
+      "latestVersion": "0",
+      "name": "Chrome Enterprise Core - POC",
+      "publisher": "PDQ Solutions",
+      "source": "custom"
+    },
+    {
+      "id": "pkg_5ebdc0b644774d78a37",
+      "latestPackageVersionId": "pkgver_5b8b6ace2bea4c36b5f",
+      "latestVersion": "0",
+      "name": "Check for Windows Updates - MRood Custom",
+      "publisher": "PDQ Solutions",
+      "source": "custom"
+    },
+    {
+      "id": "pkg_85b8368b6da04839904",
+      "latestPackageVersionId": "pkgver_2c92b51b2cc040989b3",
+      "latestVersion": "0",
+      "name": "Chad - PSWindowsUpdates - Get Applicable Windows Updates - embedded",
+      "publisher": "PDQ Solutions",
+      "source": "custom"
+    },
+    {
+      "id": "pkg_c6b7efbbd31e451892d",
+      "latestPackageVersionId": "pkgver_54b8f0ebbc7c4bd395c",
+      "latestVersion": "0",
+      "name": "Building Blocks",
+      "publisher": "PDQ Solutions",
+      "source": "custom"
+    },
+    {
+      "id": "pkg_6cc55382edec49fab06",
+      "latestPackageVersionId": "pkgver_f1baeef5cd7a4ab5910",
+      "latestVersion": "0",
+      "name": "bruno test",
+      "publisher": "PDQ Solutions",
+      "source": "custom"
+    },
+    {
+      "id": "pkg_3ca3d58a3b5c4776976",
+      "latestPackageVersionId": "pkgver_679d05f64af94692a9e",
+      "latestVersion": "1",
+      "name": "Brigg Test - Ping 1.1.1.1",
+      "publisher": "PDQ Solutions",
+      "source": "custom"
+    },
+    {
+      "id": "pkg_97484d59491e4b19b10",
+      "latestPackageVersionId": "pkgver_4091c42b00934f53b0b",
+      "latestVersion": "0",
+      "name": "Bluebeam Revu x64",
+      "publisher": "PDQ Solutions",
+      "source": "custom"
+    },
+    {
       "id": "pkg_1b92af613b924147aaa",
-      "latestPackageVersionId": "pkgver_5e1b61b4445f4621a4b",
-      "latestVersion": "4.4.0",
+      "latestPackageVersionId": "pkgver_3ac8b9a3657a42799c6",
+      "latestVersion": "4.4.1",
       "name": "Blender",
       "publisher": "Blender Foundation",
       "source": "pdq"
     },
     {
       "id": "pkg_f55165d56c7a421f9cc",
-      "latestPackageVersionId": "pkgver_db1f622409914452990",
-      "latestVersion": "2025.3.0",
+      "latestPackageVersionId": "pkgver_98eaba7894904efeb2f",
+      "latestVersion": "2025.3.1",
       "name": "BitWarden",
       "publisher": "BitWarden",
       "source": "pdq"
+    },
+    {
+      "id": "pkg_e2a840af4cec4f4eb9c",
+      "latestPackageVersionId": "pkgver_7bb515ca746a4fc68c4",
+      "latestVersion": "0",
+      "name": "Beeg Upload Test",
+      "publisher": "PDQ Solutions",
+      "source": "custom"
+    },
+    {
+      "id": "pkg_60447da18c1343a68c5",
+      "latestPackageVersionId": "pkgver_b545721f6ab64c87852",
+      "latestVersion": "0",
+      "name": "Battery Status Test",
+      "publisher": "PDQ Solutions",
+      "source": "custom"
+    },
+    {
+      "id": "pkg_772bb239f5fb4fab9af",
+      "latestPackageVersionId": "pkgver_960fde6b54df4c3cac2",
+      "latestVersion": "0",
+      "name": "Bandwidth Test",
+      "publisher": "PDQ Solutions",
+      "source": "custom"
+    },
+    {
+      "id": "pkg_e6f966db2c0c423aa6c",
+      "latestPackageVersionId": "pkgver_e085750e4ad2424baf6",
+      "latestVersion": "1",
+      "name": "Autodesk ODIS",
+      "publisher": "PDQ Solutions",
+      "source": "custom"
+    },
+    {
+      "id": "pkg_133bb5b97195431a984",
+      "latestPackageVersionId": "pkgver_f47ef5eb787b482e943",
+      "latestVersion": "15.1.0.12339",
+      "name": "Autodesk Licensing Service update",
+      "publisher": "PDQ Solutions",
+      "source": "custom"
     },
     {
       "id": "pkg_3991e0f467c548bd990",
@@ -1666,32 +3514,400 @@
     },
     {
       "id": "pkg_55c908407249426c82c",
-      "latestPackageVersionId": "pkgver_a48a0d0f7a3045469ec",
-      "latestVersion": "9.5.0",
+      "latestPackageVersionId": "pkgver_4e029d97f37b4ad48c3",
+      "latestVersion": "9.5.1",
       "name": "AnyDesk",
       "publisher": "AnyDesk Software GmbH",
       "source": "pdq"
     },
     {
+      "id": "pkg_8cc87a4c07e048b692e",
+      "latestPackageVersionId": "pkgver_ddd2d73ed252440cad9",
+      "latestVersion": "0",
+      "name": "Andrew Test - Sysmon",
+      "publisher": "PDQ Solutions",
+      "source": "custom"
+    },
+    {
+      "id": "pkg_2fc776ffc34c4689bb8",
+      "latestPackageVersionId": "pkgver_69de6edf84bb47feb12",
+      "latestVersion": "0",
+      "name": "Andrew Test - Start program",
+      "publisher": "PDQ Solutions",
+      "source": "custom"
+    },
+    {
+      "id": "pkg_14769a11e1494a8d929",
+      "latestPackageVersionId": "pkgver_c257064885dc482d93c",
+      "latestVersion": "0",
+      "name": "Andrew Test - Sleep",
+      "publisher": "PDQ Solutions",
+      "source": "custom"
+    },
+    {
+      "id": "pkg_aeb353b0c5bd411bafa",
+      "latestPackageVersionId": "pkgver_61b5437e0fff41bfb5a",
+      "latestVersion": "0",
+      "name": "Andrew Test - Remove User Directory",
+      "publisher": "PDQ Solutions",
+      "source": "custom"
+    },
+    {
+      "id": "pkg_9361518292054d14bc0",
+      "latestPackageVersionId": "pkgver_50b60df14d0547eab39",
+      "latestVersion": "0",
+      "name": "Andrew Test - Remove Local Admin",
+      "publisher": "PDQ Solutions",
+      "source": "custom"
+    },
+    {
+      "id": "pkg_fda23fc323194f3f95a",
+      "latestPackageVersionId": "pkgver_04b04bc302fe4583913",
+      "latestVersion": "0",
+      "name": "Andrew Test - Reboot prompt",
+      "publisher": "PDQ Solutions",
+      "source": "custom"
+    },
+    {
+      "id": "pkg_28435d349cd247d0a40",
+      "latestPackageVersionId": "pkgver_1899f56363cd4a8cbe6",
+      "latestVersion": "0",
+      "name": "Andrew Test - Reboot",
+      "publisher": "PDQ Solutions",
+      "source": "custom"
+    },
+    {
+      "id": "pkg_00ed7ba0ff5e4e74bce",
+      "latestPackageVersionId": "pkgver_bed839197ca740f1882",
+      "latestVersion": "0",
+      "name": "Andrew Test - PowerShell Variable",
+      "publisher": "PDQ Solutions",
+      "source": "custom"
+    },
+    {
+      "id": "pkg_bd3de8675c564fd7bb3",
+      "latestPackageVersionId": "pkgver_d8f919b3836c45509d9",
+      "latestVersion": "0",
+      "name": "Andrew Test - ODBC Driver 11",
+      "publisher": "PDQ Solutions",
+      "source": "custom"
+    },
+    {
+      "id": "pkg_055869079d1f4e94b4d",
+      "latestPackageVersionId": "pkgver_1b1e55d31df941da9b3",
+      "latestVersion": "0",
+      "name": "Andrew Test - O365 Example",
+      "publisher": "PDQ Solutions",
+      "source": "custom"
+    },
+    {
+      "id": "pkg_0d46185dac164707bdd",
+      "latestPackageVersionId": "pkgver_20e6551cfba74d5ba7c",
+      "latestVersion": "0",
+      "name": "Andrew Test - Notify User",
+      "publisher": "PDQ Solutions",
+      "source": "custom"
+    },
+    {
+      "id": "pkg_0be9aa73b724455cacc",
+      "latestPackageVersionId": "pkgver_50262b437f7b47c5a16",
+      "latestVersion": "0",
+      "name": "Andrew Test - Nested L3",
+      "publisher": "PDQ Solutions",
+      "source": "custom"
+    },
+    {
+      "id": "pkg_5bdaf9aa37dc460fa61",
+      "latestPackageVersionId": "pkgver_a4460020d194463b80c",
+      "latestVersion": "0",
+      "name": "Andrew Test - Nested L2.2",
+      "publisher": "PDQ Solutions",
+      "source": "custom"
+    },
+    {
+      "id": "pkg_25c7060bcd5c46cc9c2",
+      "latestPackageVersionId": "pkgver_69a6a562b3ff44628bd",
+      "latestVersion": "0",
+      "name": "Andrew Test - Nested L2",
+      "publisher": "PDQ Solutions",
+      "source": "custom"
+    },
+    {
+      "id": "pkg_95bce70aaaf14f9b9af",
+      "latestPackageVersionId": "pkgver_f930a2472b3c441784a",
+      "latestVersion": "0",
+      "name": "Andrew Test - Nested Error",
+      "publisher": "PDQ Solutions",
+      "source": "custom"
+    },
+    {
+      "id": "pkg_cc1338d3bc9742e2ad7",
+      "latestPackageVersionId": "pkgver_2584390844df498895d",
+      "latestVersion": "0",
+      "name": "Andrew Test - Nested Bug 2",
+      "publisher": "PDQ Solutions",
+      "source": "custom"
+    },
+    {
+      "id": "pkg_fcd4368abc144ba0bf9",
+      "latestPackageVersionId": "pkgver_6ad0c0820c314e8382d",
+      "latestVersion": "0",
+      "name": "Andrew Test - Nested Bug",
+      "publisher": "PDQ Solutions",
+      "source": "custom"
+    },
+    {
+      "id": "pkg_62d6ad60c21a4c5db4d",
+      "latestPackageVersionId": "pkgver_12ac9960eb73462d86d",
+      "latestVersion": "0",
+      "name": "Andrew Test - Nested",
+      "publisher": "PDQ Solutions",
+      "source": "custom"
+    },
+    {
+      "id": "pkg_9002f23a72004415855",
+      "latestPackageVersionId": "pkgver_95a6333ef19e454598f",
+      "latestVersion": "0",
+      "name": "Andrew Test - MSIX (Bitwarden)",
+      "publisher": "PDQ Solutions",
+      "source": "custom"
+    },
+    {
+      "id": "pkg_88409442ef4f4e62b41",
+      "latestPackageVersionId": "pkgver_30a8425969434ab0a4f",
+      "latestVersion": "0",
+      "name": "Andrew Test - Message 2",
+      "publisher": "PDQ Solutions",
+      "source": "custom"
+    },
+    {
+      "id": "pkg_1bd97b0f8f0645428e3",
+      "latestPackageVersionId": "pkgver_6d3a2d9d48b34f509bb",
+      "latestVersion": "0",
+      "name": "Andrew Test - Install Shield",
+      "publisher": "PDQ Solutions",
+      "source": "custom"
+    },
+    {
+      "id": "pkg_6af7c9de6f63402b8a8",
+      "latestPackageVersionId": "pkgver_46e41af54eac460ebb7",
+      "latestVersion": "0",
+      "name": "Andrew Test - Install Font",
+      "publisher": "PDQ Solutions",
+      "source": "custom"
+    },
+    {
+      "id": "pkg_2d2c210b84104516acd",
+      "latestPackageVersionId": "pkgver_7156371b627a4d0da77",
+      "latestVersion": "0",
+      "name": "Andrew Test - Import Registry Key",
+      "publisher": "PDQ Solutions",
+      "source": "custom"
+    },
+    {
+      "id": "pkg_5212613c4dee4981852",
+      "latestPackageVersionId": "pkgver_dff18457e7b74243a9a",
+      "latestVersion": "0",
+      "name": "Andrew Test - Folder Copy",
+      "publisher": "PDQ Solutions",
+      "source": "custom"
+    },
+    {
+      "id": "pkg_b8d2fd7fefd94e64948",
+      "latestPackageVersionId": "pkgver_b4d289021681433ba70",
+      "latestVersion": "0",
+      "name": "Andrew Test - File Copy Zip",
+      "publisher": "PDQ Solutions",
+      "source": "custom"
+    },
+    {
+      "id": "pkg_48bb38f6911847a984d",
+      "latestPackageVersionId": "pkgver_a76c22b4f526446b929",
+      "latestVersion": "0",
+      "name": "Andrew Test - Error Code bug test",
+      "publisher": "PDQ Solutions",
+      "source": "custom"
+    },
+    {
+      "id": "pkg_a982f64a23d343abbfe",
+      "latestPackageVersionId": "pkgver_b77d88aa21094405ba1",
+      "latestVersion": "0",
+      "name": "Andrew Test - Copy file to all profiles",
+      "publisher": "PDQ Solutions",
+      "source": "custom"
+    },
+    {
+      "id": "pkg_e5ea0b8aad714c8e92f",
+      "latestPackageVersionId": "pkgver_a7ea9da4a79243b089c",
+      "latestVersion": "0",
+      "name": "Andrew Test - Copy Desktop Shortcut (zip source)",
+      "publisher": "PDQ Solutions",
+      "source": "custom"
+    },
+    {
+      "id": "pkg_945f18be6f434f53a5c",
+      "latestPackageVersionId": "pkgver_dc3c0e73db1349d1875",
+      "latestVersion": "0",
+      "name": "Andrew Test - CMD variable",
+      "publisher": "PDQ Solutions",
+      "source": "custom"
+    },
+    {
+      "id": "pkg_e06d5a3f666d4d2ea0b",
+      "latestPackageVersionId": "pkgver_017bbd0eaff746aab48",
+      "latestVersion": "0",
+      "name": "Andrew Test - Chrome Updates example",
+      "publisher": "PDQ Solutions",
+      "source": "custom"
+    },
+    {
+      "id": "pkg_86192e555ed64832b5f",
+      "latestPackageVersionId": "pkgver_add85e7a7e264b65888",
+      "latestVersion": "0",
+      "name": "Andrew Test - Big Folders",
+      "publisher": "PDQ Solutions",
+      "source": "custom"
+    },
+    {
+      "id": "pkg_b7397c7db3ee4aac8bb",
+      "latestPackageVersionId": "pkgver_e71e65a93d5f4d7aa25",
+      "latestVersion": "0",
+      "name": "Andrew Test - BEEG STEPS",
+      "publisher": "PDQ Solutions",
+      "source": "custom"
+    },
+    {
+      "id": "pkg_4c978ca5adb34e53b14",
+      "latestPackageVersionId": "pkgver_fe39ca7a173346e39d1",
+      "latestVersion": "16.3",
+      "name": "Andrew Test - Autodesk Desktop Connector 16.3",
+      "publisher": "PDQ Solutions",
+      "source": "custom"
+    },
+    {
+      "id": "pkg_4476be8cdeb04079884",
+      "latestPackageVersionId": "pkgver_feb15df55c454a25b1b",
+      "latestVersion": "15.8",
+      "name": "Andrew Test - Autodesk Desktop Connector",
+      "publisher": "PDQ Solutions",
+      "source": "custom"
+    },
+    {
+      "id": "pkg_3869e6c849bd4b169c4",
+      "latestPackageVersionId": "pkgver_20baabec023a4482a29",
+      "latestVersion": "0",
+      "name": "Andrew Test - Adobe Acrobat Pro",
+      "publisher": "PDQ Solutions",
+      "source": "custom"
+    },
+    {
+      "id": "pkg_399a7464657b483ea88",
+      "latestPackageVersionId": "pkgver_7a39508f926640a0abf",
+      "latestVersion": "0",
+      "name": "Andrew Test - Adobe Acrobat",
+      "publisher": "PDQ Solutions",
+      "source": "custom"
+    },
+    {
+      "id": "pkg_b1ea8aa84ef64ad5bc4",
+      "latestPackageVersionId": "pkgver_4e8c9dc86ddc44aaa01",
+      "latestVersion": "15.8",
+      "name": "Andrew Test - ADC Uninstall MSI",
+      "publisher": "PDQ Solutions",
+      "source": "custom"
+    },
+    {
+      "id": "pkg_006aa50d69464ee398f",
+      "latestPackageVersionId": "pkgver_061f876f0b8d4747872",
+      "latestVersion": "15.8",
+      "name": "Andrew Test - ADC Uninstall EXE",
+      "publisher": "PDQ Solutions",
+      "source": "custom"
+    },
+    {
+      "id": "pkg_8c4841693fb243acb1d",
+      "latestPackageVersionId": "pkgver_6b67020513b84cf8b90",
+      "latestVersion": "15.8",
+      "name": "Andrew Test - ADC Uninstall",
+      "publisher": "PDQ Solutions",
+      "source": "custom"
+    },
+    {
+      "id": "pkg_cbb5675909504cc785a",
+      "latestPackageVersionId": "pkgver_f38c251e3ecc4f6fb40",
+      "latestVersion": "0",
+      "name": "Andrew - PowerShell Splat test",
+      "publisher": "PDQ Solutions",
+      "source": "custom"
+    },
+    {
+      "id": "pkg_5654d7cbef034beb838",
+      "latestPackageVersionId": "pkgver_8bc059d0abd447fd955",
+      "latestVersion": "0",
+      "name": "Andrew - MST Example",
+      "publisher": "PDQ Solutions",
+      "source": "custom"
+    },
+    {
+      "id": "pkg_1e120660424546c9abf",
+      "latestPackageVersionId": "pkgver_df74ddd5211a4068bba",
+      "latestVersion": "0",
+      "name": "Andrew - Creative Cloud",
+      "publisher": "PDQ Solutions",
+      "source": "custom"
+    },
+    {
+      "id": "pkg_0fb24435cccf449a97e",
+      "latestPackageVersionId": "pkgver_896f18628c404551a05",
+      "latestVersion": "0",
+      "name": "Andrew - Bug PowerShell Variable",
+      "publisher": "PDQ Solutions",
+      "source": "custom"
+    },
+    {
+      "id": "pkg_8bac1f8f069a4527837",
+      "latestPackageVersionId": "pkgver_93828243bc2b4ff6911",
+      "latestVersion": "0",
+      "name": "Andrew - Bug PowerShell Variable",
+      "publisher": "PDQ Solutions",
+      "source": "custom"
+    },
+    {
+      "id": "pkg_7ad3bea58df149f4af0",
+      "latestPackageVersionId": "pkgver_b4a1a5ddac7943b0bcd",
+      "latestVersion": "0",
+      "name": "Airtame example",
+      "publisher": "PDQ Solutions",
+      "source": "custom"
+    },
+    {
       "id": "pkg_54e5dfe2d9e949eeafd",
-      "latestPackageVersionId": "pkgver_f720f885221b461e8ae",
-      "latestVersion": "25.1.20432",
+      "latestPackageVersionId": "pkgver_322b582efbe24d70b8d",
+      "latestVersion": "25.1.20458",
       "name": "Adobe Reader DC Patch (64-bit)",
       "publisher": "Adobe",
       "source": "pdq"
     },
     {
       "id": "pkg_a61085ef8c894449a3a",
-      "latestPackageVersionId": "pkgver_fc189f47e1c6436b989",
-      "latestVersion": "25.1.20432",
+      "latestPackageVersionId": "pkgver_a1464a64a3bc47119ae",
+      "latestVersion": "25.1.20458",
       "name": "Adobe Reader DC Patch (32-bit)",
       "publisher": "Adobe",
       "source": "pdq"
     },
     {
+      "id": "pkg_3024b6721b67482f97d",
+      "latestPackageVersionId": "pkgver_2f02d9aa948a404dbcc",
+      "latestVersion": "24.2.20933",
+      "name": "Adobe Reader DC (64-bit)",
+      "publisher": "PDQ Solutions",
+      "source": "custom"
+    },
+    {
       "id": "pkg_06a004d180944c1c951",
-      "latestPackageVersionId": "pkgver_b9b4734923cd4ff2995",
-      "latestVersion": "25.1.20432",
+      "latestPackageVersionId": "pkgver_37f2ecdccacd4d03881",
+      "latestVersion": "25.1.20458",
       "name": "Adobe Reader DC (32-bit)",
       "publisher": "Adobe",
       "source": "pdq"
@@ -1714,27 +3930,67 @@
     },
     {
       "id": "pkg_fd27c7f88bf644978c6",
-      "latestPackageVersionId": "pkgver_3add0765d8a247f0b70",
-      "latestVersion": "51.1.3.4",
+      "latestPackageVersionId": "pkgver_ecf7d6ac508646dd9ae",
+      "latestVersion": "51.2.1.1",
       "name": "Adobe AIR",
       "publisher": "Adobe",
       "source": "pdq"
     },
     {
       "id": "pkg_4fea36db22544b78991",
-      "latestPackageVersionId": "pkgver_578b9b53842e4b90ab7",
-      "latestVersion": "25.1.20432",
+      "latestPackageVersionId": "pkgver_4e74637c93f947d8992",
+      "latestVersion": "25.1.20458",
       "name": "Adobe Acrobat DC Patch (64-bit)",
       "publisher": "Adobe",
       "source": "pdq"
     },
     {
       "id": "pkg_4b6c7b97f9134e06847",
-      "latestPackageVersionId": "pkgver_882150343e1a4818a03",
-      "latestVersion": "25.1.20432",
+      "latestPackageVersionId": "pkgver_2ec73d8794d64822924",
+      "latestVersion": "25.1.20458",
       "name": "Adobe Acrobat DC Patch (32-bit)",
       "publisher": "Adobe",
       "source": "pdq"
+    },
+    {
+      "id": "pkg_ea8914615686442c96b",
+      "latestPackageVersionId": "pkgver_b45c755504da45ad83b",
+      "latestVersion": "0",
+      "name": "ABC-Update // Install Updates // MROOD",
+      "publisher": "PDQ Solutions",
+      "source": "custom"
+    },
+    {
+      "id": "pkg_f19dc0dbf9d34e5eaff",
+      "latestPackageVersionId": "pkgver_d6d3af0bbf294ee6a7a",
+      "latestVersion": "0",
+      "name": "ABC-Update // Check for Updates // MROOD",
+      "publisher": "PDQ Solutions",
+      "source": "custom"
+    },
+    {
+      "id": "pkg_046636f0e2634a7d8b4",
+      "latestPackageVersionId": "pkgver_4a5a05a4eec440cf8a1",
+      "latestVersion": "0",
+      "name": "7-Zip - No Output",
+      "publisher": "PDQ Solutions",
+      "source": "custom"
+    },
+    {
+      "id": "pkg_24755168fbef4f6a851",
+      "latestPackageVersionId": "pkgver_b449db922ecb4fc0a02",
+      "latestVersion": "24.9",
+      "name": "7-Zip (4)",
+      "publisher": "PDQ Solutions",
+      "source": "custom"
+    },
+    {
+      "id": "pkg_8ebea0c8507949caae7",
+      "latestPackageVersionId": "pkgver_5492132783204578b96",
+      "latestVersion": "24.8",
+      "name": "7-Zip (2)",
+      "publisher": "PDQ Solutions",
+      "source": "custom"
     },
     {
       "id": "pkg_426e379c71e14d819f5",
@@ -1745,12 +4001,28 @@
       "source": "pdq"
     },
     {
+      "id": "pkg_a0cb36cec9414ccba92",
+      "latestPackageVersionId": "pkgver_456b476a5df14b59977",
+      "latestVersion": "0",
+      "name": "3DxWare",
+      "publisher": "PDQ Solutions",
+      "source": "custom"
+    },
+    {
       "id": "pkg_4aa14a6239a94f2eb04",
-      "latestPackageVersionId": "pkgver_e2b2135e5d86435fa07",
-      "latestVersion": "8.10.70",
+      "latestPackageVersionId": "pkgver_38a3ee7914274223842",
+      "latestVersion": "8.10.72",
       "name": "1Password",
       "publisher": "Agilebits Inc.",
       "source": "pdq"
+    },
+    {
+      "id": "pkg_cf5eae0cc2ac45ada2a",
+      "latestPackageVersionId": "pkgver_1ce2d20a29804abf961",
+      "latestVersion": "0",
+      "name": "12dSynergy",
+      "publisher": "PDQ Solutions",
+      "source": "custom"
     }
   ]
 }
